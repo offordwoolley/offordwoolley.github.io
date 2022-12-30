@@ -1,0 +1,100 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "My Blog",
+	"icon": "https://micro.blog/offordwoolley/avatar.jpg",
+	"home_page_url": "https://blog.offordwoolley.com/",
+	"feed_url": "https://blog.offordwoolley.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/25/221016.html",
+				
+				"content_html": "<p>Useful graphic comparing Product vs Delivery Mgmt activities</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Useful graphic comparing Product vs Delivery Mgmt activities\n\n<img src=\"uploads/2022/907c94836f.jpg\" width=\"463\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-25T22:10:16+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/25/221016.html",
+				"tags": ["digital","product","delivery"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/25/graphic-showing-impact.html",
+				
+				"content_html": "<p>Graphic showing impact of C-19 - during its height- on digital transformation</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Graphic showing impact of C-19 - during its height- on digital transformation \n\n<img src=\"uploads/2022/6f85ede20d.jpg\" width=\"600\" height=\"366\" alt=\"\">\n",
+				"date_published": "2022-12-25T22:08:50+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/25/graphic-showing-impact.html",
+				"tags": ["digital","transformation"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/25/helpful-graphic-showing.html",
+				
+				"content_html": "<p>Helpful graphic showing the transition from waterfall to Agile</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Helpful graphic showing the transition from waterfall to Agile\n\n<img src=\"uploads/2022/a0f6194d32.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2022-12-25T22:08:05+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/25/helpful-graphic-showing.html",
+				"tags": ["digital","product","delivery","transformation","agile"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/25/nice-venn-diagram.html",
+				
+				"content_html": "<p>Nice Venn Diagram for Product, Tech, Delivery overlaps</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nice Venn Diagram for Product, Tech, Delivery overlaps\n\n<img src=\"uploads/2022/9d65e28cca.jpg\" width=\"600\" height=\"465\" alt=\"\">\n",
+				"date_published": "2022-12-25T22:07:01+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/25/nice-venn-diagram.html",
+				"tags": ["digital","product","delivery","agile"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/25/useful-graphic-comparing.html",
+				
+				"content_html": "<p>Useful graphic comparing Product vs Delivery expectations</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Useful graphic comparing Product vs Delivery expectations\n\n<img src=\"uploads/2022/bf88d107ff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-25T22:00:07+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/25/useful-graphic-comparing.html",
+				"tags": ["digital","product"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/25/ben-evans-end.html",
+				
+				"content_html": "<p>Ben Evans 2021 end of year thoughts - <a href=\"https://www.ben-evans.com/presentations\">www.ben-evans.com/presentat&hellip;</a></p>\n",
+				"content_text": "Ben Evans 2021 end of year thoughts - [www.ben-evans.com/presentat...](https://www.ben-evans.com/presentations)\n",
+				"date_published": "2022-12-25T21:54:45+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/25/ben-evans-end.html",
+				"tags": ["digital","web3","ecomm","cloud"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/25/nice-article-on.html",
+				
+				"content_html": "<p>Nice article on the Wordle creator on going viral and what to do next - <a href=\"https://techcrunch.com/2022/01/12/josh-wardle-interview-wordle/\">techcrunch.com/2022/01/1&hellip;</a></p>\n",
+				"content_text": "Nice article on the Wordle creator on going viral and what to do next - [techcrunch.com/2022/01/1...](https://techcrunch.com/2022/01/12/josh-wardle-interview-wordle/)\n",
+				"date_published": "2022-12-25T21:52:26+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/25/nice-article-on.html",
+				"tags": ["digital","product","startups"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/25/useful-post-on.html",
+				
+				"content_html": "<p>Useful post on why diversity in product teams is important - FB Marketplace - <a href=\"https://www.lennysnewsletter.com/p/the-inside-story-of-facebook-marketplace?r=il6m\">www.lennysnewsletter.com/p/the-ins&hellip;</a></p>\n",
+				"content_text": "Useful post on why diversity in product teams is important - FB Marketplace - [www.lennysnewsletter.com/p/the-ins...](https://www.lennysnewsletter.com/p/the-inside-story-of-facebook-marketplace?r=il6m)\n",
+				"date_published": "2022-12-25T09:31:10+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/25/useful-post-on.html",
+				"tags": ["digital","product","diversity"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/24/simple-guide-to.html",
+				
+				"content_html": "<p>Simple guide to Web3 tech stack - <a href=\"https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack\">www.coinbase.com/blog/a-si&hellip;</a></p>\n",
+				"content_text": "Simple guide to Web3 tech stack - [www.coinbase.com/blog/a-si...](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack)\n",
+				"date_published": "2022-12-24T21:56:40+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/24/simple-guide-to.html",
+				"tags": ["digital","crypto","web3"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2022/12/24/a-decade-of.html",
+				
+				"content_html": "<p>Useful history on a decade of contactless payments on TfL - <a href=\"https://www.ianvisits.co.uk/articles/a-decade-of-contactless-payments-on-london-public-transport-59366/\">www.ianvisits.co.uk/articles/&hellip;</a></p>\n",
+				"content_text": "Useful history on a decade of contactless payments on TfL - [www.ianvisits.co.uk/articles/...](https://www.ianvisits.co.uk/articles/a-decade-of-contactless-payments-on-london-public-transport-59366/)\n",
+				"date_published": "2022-12-24T17:48:38+00:00",
+				"url": "https://blog.offordwoolley.com/2022/12/24/a-decade-of.html",
+				"tags": ["digital","transport","london"]
+			}
+	]
+}
