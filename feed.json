@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/01/18/long-piece-in.html",
+				
+				"content_html": "<p>Long piece in Nature on lack of evidence of planted stories impacting elections - <a href=\"https://www.nature.com/articles/s41467-022-35576-9\">www.nature.com/articles/&hellip;</a></p>\n",
+				"content_text": "Long piece in Nature on lack of evidence of planted stories impacting elections - [www.nature.com/articles/...](https://www.nature.com/articles/s41467-022-35576-9)\n",
+				"date_published": "2023-01-18T10:29:18+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/18/long-piece-in.html",
+				"tags": ["twitter","politics"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/01/04/deep-dive-into.html",
+				
+				"content_html": "<p>Deep dive into how Twitter Fact-checking system - <a href=\"https://www.bloomberg.com/graphics/2022-twitter-birdwatch-community-notes-misinformation-politics/?leadSource=uverify%20wall\">www.bloomberg.com/graphics/&hellip;</a></p>\n",
+				"content_text": "Deep dive into how Twitter Fact-checking system - [www.bloomberg.com/graphics/...](https://www.bloomberg.com/graphics/2022-twitter-birdwatch-community-notes-misinformation-politics/?leadSource=uverify%20wall)\n",
+				"date_published": "2023-01-04T11:55:58+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/04/deep-dive-into.html",
+				"tags": ["digital","twitter"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/01/04/ofcom-research-of.html",
+				
+				"content_html": "<p>Ofcom research of time spent on mobile in 2022 - <a href=\"https://www.ofcom.org.uk/__data/assets/pdf_file/0026/247544/annex-5-ipsos-iris-passive-monitoring-analysis.pdf\">https://www.ofcom.org.uk/__data/assets/pdf_file/0026/247544/annex-5-ipsos-iris-passive-monitoring-analysis.pdf</a></p>\n",
+				"content_text": "Ofcom research of time spent on mobile in 2022 - https://www.ofcom.org.uk/__data/assets/pdf_file/0026/247544/annex-5-ipsos-iris-passive-monitoring-analysis.pdf\n",
+				"date_published": "2023-01-04T11:46:18+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/04/ofcom-research-of.html",
+				"tags": ["digital","mobile","research"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/01/04/digital-blueprint-for.html",
+				
+				"content_html": "<p>Digital blueprint for Greater Manchester - <a href=\"https://www.greatermanchester-ca.gov.uk/media/6275/gmca_blueprint_jul-22.pdf\">https://www.greatermanchester-ca.gov.uk/media/6275/gmca_blueprint_jul-22.pdf</a></p>\n",
+				"content_text": "Digital blueprint for Greater Manchester - https://www.greatermanchester-ca.gov.uk/media/6275/gmca_blueprint_jul-22.pdf\n",
+				"date_published": "2023-01-04T09:27:21+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/04/digital-blueprint-for.html",
+				"tags": ["digital","manchester"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2022/12/25/221016.html",
 				
 				"content_html": "<p>Useful graphic comparing Product vs Delivery Mgmt activities</p>\n<!-- raw HTML omitted -->\n",
@@ -94,7 +130,7 @@
 				"content_text": "Useful history on a decade of contactless payments on TfL - [www.ianvisits.co.uk/articles/...](https://www.ianvisits.co.uk/articles/a-decade-of-contactless-payments-on-london-public-transport-59366/)\n",
 				"date_published": "2022-12-24T17:48:38+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/24/a-decade-of.html",
-				"tags": ["digital","transport","london"]
+				"tags": ["digital","transport","london","mobile"]
 			}
 	]
 }
