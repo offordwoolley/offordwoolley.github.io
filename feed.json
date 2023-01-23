@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/01/23/using-ai-to.html",
+				
+				"content_html": "<p>Using AI to assist with coding - <a href=\"https://avc.com/2023/01/the-ai-assist/?lctg=161355101\">avc.com/2023/01/t&hellip;</a></p>\n",
+				"content_text": "Using AI to assist with coding - [avc.com/2023/01/t...](https://avc.com/2023/01/the-ai-assist/?lctg=161355101)\n",
+				"date_published": "2023-01-23T14:50:00+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/23/using-ai-to.html",
+				"tags": ["chatgpt","ai","copilot"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/01/21/chatgpt-isnt-magic.html",
+				
+				"content_html": "<p>ChatGPT isn’t magic, Time article on the human cost - <a href=\"https://time.com/6247678/openai-chatgpt-kenya-workers\">time.com/6247678/o&hellip;</a></p>\n",
+				"content_text": "ChatGPT isn’t magic, Time article on the human cost - [time.com/6247678/o...](https://time.com/6247678/openai-chatgpt-kenya-workers)\n",
+				"date_published": "2023-01-21T10:52:05+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/21/chatgpt-isnt-magic.html",
+				"tags": ["chatgpt","ai","kenya"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/01/18/104546.html",
+				
+				"content_html": "<p>How tech is used as a (suboptimal) workaround for subway underinvestment in Mexico - <a href=\"https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains\">restofworld.org/2023/mexi&hellip;</a></p>\n",
+				"content_text": "How tech is used as a (suboptimal) workaround for subway underinvestment in Mexico - [restofworld.org/2023/mexi...](https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains)\n",
+				"date_published": "2023-01-18T10:45:46+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/18/104546.html",
+				"tags": ["transport","whatsapp","mexico"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/01/18/chatgpt-being-used.html",
+				
+				"content_html": "<p>ChatGPT being used for cyber crime - <a href=\"https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/\">research.checkpoint.com/2023/opwn&hellip;</a></p>\n",
+				"content_text": "ChatGPT being used for cyber crime - [research.checkpoint.com/2023/opwn...](https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/)\n",
+				"date_published": "2023-01-18T10:30:31+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/18/chatgpt-being-used.html",
+				"tags": ["chatgpt","ai","cyber"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/01/18/long-piece-in.html",
 				
 				"content_html": "<p>Long piece in Nature on lack of evidence of planted stories impacting elections - <a href=\"https://www.nature.com/articles/s41467-022-35576-9\">www.nature.com/articles/&hellip;</a></p>\n",
@@ -46,7 +82,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/221016.html",
 				
 				"content_html": "<p>Useful graphic comparing Product vs Delivery Mgmt activities</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Useful graphic comparing Product vs Delivery Mgmt activities\n\n<img src=\"uploads/2022/907c94836f.jpg\" width=\"463\" height=\"600\" alt=\"\">\n",
+				"content_text": "Useful graphic comparing Product vs Delivery Mgmt activities\n\n<img src=\"https://blog.offordwoolley.com/uploads/2022/907c94836f.jpg\" width=\"463\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-25T22:10:16+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/221016.html",
 				"tags": ["digital","product","delivery"]
@@ -55,7 +91,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/graphic-showing-impact.html",
 				
 				"content_html": "<p>Graphic showing impact of C-19 - during its height- on digital transformation</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Graphic showing impact of C-19 - during its height- on digital transformation \n\n<img src=\"uploads/2022/6f85ede20d.jpg\" width=\"600\" height=\"366\" alt=\"\">\n",
+				"content_text": "Graphic showing impact of C-19 - during its height- on digital transformation \n\n<img src=\"https://blog.offordwoolley.com/uploads/2022/6f85ede20d.jpg\" width=\"600\" height=\"366\" alt=\"\">\n",
 				"date_published": "2022-12-25T22:08:50+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/graphic-showing-impact.html",
 				"tags": ["digital","transformation"]
@@ -64,7 +100,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/helpful-graphic-showing.html",
 				
 				"content_html": "<p>Helpful graphic showing the transition from waterfall to Agile</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Helpful graphic showing the transition from waterfall to Agile\n\n<img src=\"uploads/2022/a0f6194d32.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Helpful graphic showing the transition from waterfall to Agile\n\n<img src=\"https://blog.offordwoolley.com/uploads/2022/a0f6194d32.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-12-25T22:08:05+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/helpful-graphic-showing.html",
 				"tags": ["digital","product","delivery","transformation","agile"]
@@ -73,7 +109,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/nice-venn-diagram.html",
 				
 				"content_html": "<p>Nice Venn Diagram for Product, Tech, Delivery overlaps</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice Venn Diagram for Product, Tech, Delivery overlaps\n\n<img src=\"uploads/2022/9d65e28cca.jpg\" width=\"600\" height=\"465\" alt=\"\">\n",
+				"content_text": "Nice Venn Diagram for Product, Tech, Delivery overlaps\n\n<img src=\"https://blog.offordwoolley.com/uploads/2022/9d65e28cca.jpg\" width=\"600\" height=\"465\" alt=\"\">\n",
 				"date_published": "2022-12-25T22:07:01+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/nice-venn-diagram.html",
 				"tags": ["digital","product","delivery","agile"]
@@ -82,7 +118,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/useful-graphic-comparing.html",
 				
 				"content_html": "<p>Useful graphic comparing Product vs Delivery expectations</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Useful graphic comparing Product vs Delivery expectations\n\n<img src=\"uploads/2022/bf88d107ff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Useful graphic comparing Product vs Delivery expectations\n\n<img src=\"https://blog.offordwoolley.com/uploads/2022/bf88d107ff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-25T22:00:07+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/useful-graphic-comparing.html",
 				"tags": ["digital","product"]
