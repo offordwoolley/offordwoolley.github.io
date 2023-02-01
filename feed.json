@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/01/25/a-good-comparison.html",
+				
+				"content_html": "<p>A good comparison of AI companies vs traditional software companies- <a href=\"https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software-2/\">a16z.com/2020/02/1&hellip;</a></p>\n",
+				"content_text": "A good comparison of AI companies vs traditional software companies- [a16z.com/2020/02/1...](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software-2/)\n",
+				"date_published": "2023-01-25T11:56:30+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/25/a-good-comparison.html",
+				"tags": ["ai"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/01/24/useful-thinkpiece-on.html",
+				
+				"content_html": "<p>Useful think-piece on “Who owns the Generative AI platform?” - <a href=\"https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/\">a16z.com/2023/01/1&hellip;</a></p>\n",
+				"content_text": "Useful think-piece on “Who owns the Generative AI platform?” - [a16z.com/2023/01/1...](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/)\n",
+				"date_published": "2023-01-24T22:55:47+00:00",
+				"url": "https://blog.offordwoolley.com/2023/01/24/useful-thinkpiece-on.html",
+				"tags": ["chatgpt","ai"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/01/23/using-ai-to.html",
 				
 				"content_html": "<p>Using AI to assist with coding - <a href=\"https://avc.com/2023/01/the-ai-assist/?lctg=161355101\">avc.com/2023/01/t&hellip;</a></p>\n",
