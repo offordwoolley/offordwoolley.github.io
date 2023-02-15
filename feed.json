@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/02/15/tips-for-using.html",
+				
+				"content_html": "<p>Tips for using ChatGPT to save time when coding - <a href=\"https://twitter.com/svpino/status/1624392828154712064?s=12&amp;t=xAb617AFWx28xwUGYJP_Lw\">twitter.com/svpino/st&hellip;</a></p>\n",
+				"content_text": "Tips for using ChatGPT to save time when coding - [twitter.com/svpino/st...](https://twitter.com/svpino/status/1624392828154712064?s=12&t=xAb617AFWx28xwUGYJP_Lw)\n",
+				"date_published": "2023-02-15T10:07:31+00:00",
+				"url": "https://blog.offordwoolley.com/2023/02/15/tips-for-using.html",
+				"tags": ["chatgpt","ai","dev"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/02/01/nice-piece-on.html",
+				
+				"content_html": "<p>Nice piece on the recession on VR - <a href=\"https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus\">www.matthewball.vc/all/why-v&hellip;</a></p>\n",
+				"content_text": "Nice piece on the recession on VR - [www.matthewball.vc/all/why-v...](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)\n",
+				"date_published": "2023-02-01T21:15:40+00:00",
+				"url": "https://blog.offordwoolley.com/2023/02/01/nice-piece-on.html",
+				"tags": ["vr"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/01/25/a-good-comparison.html",
 				
 				"content_html": "<p>A good comparison of AI companies vs traditional software companies- <a href=\"https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software-2/\">a16z.com/2020/02/1&hellip;</a></p>\n",
