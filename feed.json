@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/04/18/state-of-crypto.html",
+				
+				"content_html": "<p>State of Crypto in 2023 - <a href=\"https://a16zcrypto.com/content/article/state-of-crypto-report-2023/\">a16zcrypto.com/content/a&hellip;</a></p>\n",
+				"content_text": "State of Crypto in 2023 - [a16zcrypto.com/content/a...](https://a16zcrypto.com/content/article/state-of-crypto-report-2023/)\n",
+				"date_published": "2023-04-18T19:34:40+02:00",
+				"url": "https://blog.offordwoolley.com/2023/04/18/state-of-crypto.html",
+				"tags": ["crypto"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/04/12/article-about-india.html",
+				
+				"content_html": "<p>Article about India exporting its home grown digital payments system but some good content on open source digital identity platforms that help countries develop independence from big western companies - <a href=\"https://restofworld.org/2023/india-upi-digital-payments-diplomacy\">restofworld.org/2023/indi&hellip;</a></p>\n",
+				"content_text": "Article about India exporting its home grown digital payments system but some good content on open source digital identity platforms that help countries develop independence from big western companies - [restofworld.org/2023/indi...](https://restofworld.org/2023/india-upi-digital-payments-diplomacy)\n",
+				"date_published": "2023-04-12T09:24:41+02:00",
+				"url": "https://blog.offordwoolley.com/2023/04/12/article-about-india.html",
+				"tags": ["tech","identity"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/04/12/some-great-pics.html",
 				
 				"content_html": "<p>Some great pics of how tech is used around the World - <a href=\"https://restofworld.org/2023/winners-2023-photography-contest\">restofworld.org/2023/winn&hellip;</a></p>\n",
