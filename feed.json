@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/04/25/summary-of-some.html",
+				
+				"content_html": "<p>Summary of some of the datasets used by popular LLM - <a href=\"https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/\">www.washingtonpost.com/technolog&hellip;</a></p>\n",
+				"content_text": "Summary of some of the datasets used by popular LLM - [www.washingtonpost.com/technolog...](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)\n",
+				"date_published": "2023-04-25T19:17:33+02:00",
+				"url": "https://blog.offordwoolley.com/2023/04/25/summary-of-some.html",
+				"tags": ["ai","chatbot"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/04/18/state-of-crypto.html",
 				
 				"content_html": "<p>State of Crypto in 2023 - <a href=\"https://a16zcrypto.com/content/article/state-of-crypto-report-2023/\">a16zcrypto.com/content/a&hellip;</a></p>\n",
