@@ -7,11 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/05/03/useful-article-on.html",
+				
+				"content_html": "<p>Useful article on compute costs of training LLM’s - <a href=\"https://a16z.com/2023/04/27/navigating-the-high-cost-of-ai-compute/\">a16z.com/2023/04/2&hellip;</a></p>\n",
+				"content_text": "Useful article on compute costs of training LLM’s - [a16z.com/2023/04/2...](https://a16z.com/2023/04/27/navigating-the-high-cost-of-ai-compute/)\n",
+				"date_published": "2023-05-03T21:20:48+01:00",
+				"url": "https://blog.offordwoolley.com/2023/05/03/useful-article-on.html",
+				"tags": ["ai","llm"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/04/25/the-modern-sql.html",
+				
+				"content_html": "<p>The modern SQL Injection attack - Prompt Injection - <a href=\"https://simonwillison.net/2023/Apr/14/worst-that-can-happen/\">simonwillison.net/2023/Apr/&hellip;</a></p>\n",
+				"content_text": "The modern SQL Injection attack - Prompt Injection - [simonwillison.net/2023/Apr/...](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)\n",
+				"date_published": "2023-04-25T18:23:17+01:00",
+				"url": "https://blog.offordwoolley.com/2023/04/25/the-modern-sql.html",
+				"tags": ["ai","chatbot"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/04/25/summary-of-some.html",
 				
 				"content_html": "<p>Summary of some of the datasets used by popular LLM - <a href=\"https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/\">www.washingtonpost.com/technolog&hellip;</a></p>\n",
 				"content_text": "Summary of some of the datasets used by popular LLM - [www.washingtonpost.com/technolog...](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)\n",
-				"date_published": "2023-04-25T19:17:33+02:00",
+				"date_published": "2023-04-25T18:17:33+01:00",
 				"url": "https://blog.offordwoolley.com/2023/04/25/summary-of-some.html",
 				"tags": ["ai","chatbot"]
 			},
@@ -20,7 +38,7 @@
 				
 				"content_html": "<p>State of Crypto in 2023 - <a href=\"https://a16zcrypto.com/content/article/state-of-crypto-report-2023/\">a16zcrypto.com/content/a&hellip;</a></p>\n",
 				"content_text": "State of Crypto in 2023 - [a16zcrypto.com/content/a...](https://a16zcrypto.com/content/article/state-of-crypto-report-2023/)\n",
-				"date_published": "2023-04-18T19:34:40+02:00",
+				"date_published": "2023-04-18T18:34:40+01:00",
 				"url": "https://blog.offordwoolley.com/2023/04/18/state-of-crypto.html",
 				"tags": ["crypto"]
 			},
@@ -29,7 +47,7 @@
 				
 				"content_html": "<p>Article about India exporting its home grown digital payments system but some good content on open source digital identity platforms that help countries develop independence from big western companies - <a href=\"https://restofworld.org/2023/india-upi-digital-payments-diplomacy\">restofworld.org/2023/indi&hellip;</a></p>\n",
 				"content_text": "Article about India exporting its home grown digital payments system but some good content on open source digital identity platforms that help countries develop independence from big western companies - [restofworld.org/2023/indi...](https://restofworld.org/2023/india-upi-digital-payments-diplomacy)\n",
-				"date_published": "2023-04-12T09:24:41+02:00",
+				"date_published": "2023-04-12T08:24:41+01:00",
 				"url": "https://blog.offordwoolley.com/2023/04/12/article-about-india.html",
 				"tags": ["tech","identity"]
 			},
@@ -38,7 +56,7 @@
 				
 				"content_html": "<p>Some great pics of how tech is used around the World - <a href=\"https://restofworld.org/2023/winners-2023-photography-contest\">restofworld.org/2023/winn&hellip;</a></p>\n",
 				"content_text": "Some great pics of how tech is used around the World - [restofworld.org/2023/winn...](https://restofworld.org/2023/winners-2023-photography-contest)\n",
-				"date_published": "2023-04-12T09:17:58+02:00",
+				"date_published": "2023-04-12T08:17:58+01:00",
 				"url": "https://blog.offordwoolley.com/2023/04/12/some-great-pics.html",
 				"tags": ["tech"]
 			},
@@ -47,7 +65,7 @@
 				
 				"content_html": "<p>UK International Tech Strategy - <a href=\"https://www.gov.uk/government/publications/uk-international-technology-strategy/the-uks-international-technology-strategy\">www.gov.uk/governmen&hellip;</a></p>\n",
 				"content_text": "UK International Tech Strategy - [www.gov.uk/governmen...](https://www.gov.uk/government/publications/uk-international-technology-strategy/the-uks-international-technology-strategy)\n",
-				"date_published": "2023-03-28T19:37:00+02:00",
+				"date_published": "2023-03-28T18:37:00+01:00",
 				"url": "https://blog.offordwoolley.com/2023/03/28/uk-international-tech.html",
 				"tags": ["tech","HMG"]
 			},
@@ -56,7 +74,7 @@
 				
 				"content_html": "<p>Snap white-labelling it’s AR tools for other ecom partners - <a href=\"https://www.modernretail.co/technology/snap-rolls-out-augmented-reality-tools-for-fashion-retailers-in-latest-commerce-push/\">www.modernretail.co/technolog&hellip;</a></p>\n",
 				"content_text": "Snap white-labelling it’s AR tools for other ecom partners - [www.modernretail.co/technolog...](https://www.modernretail.co/technology/snap-rolls-out-augmented-reality-tools-for-fashion-retailers-in-latest-commerce-push/)\n",
-				"date_published": "2023-03-28T19:28:19+02:00",
+				"date_published": "2023-03-28T18:28:19+01:00",
 				"url": "https://blog.offordwoolley.com/2023/03/28/snap-whitelabelling-its.html",
 				"tags": ["ecomm","snap","ar"]
 			},
@@ -65,7 +83,7 @@
 				
 				"content_html": "<p>UK Gov report on Digital Transformation - <a href=\"https://www.nao.org.uk/reports/digital-transformation-in-government-addressing-the-barriers/\">www.nao.org.uk/reports/d&hellip;</a></p>\n",
 				"content_text": "UK Gov report on Digital Transformation - [www.nao.org.uk/reports/d...](https://www.nao.org.uk/reports/digital-transformation-in-government-addressing-the-barriers/)\n",
-				"date_published": "2023-03-21T20:30:15+02:00",
+				"date_published": "2023-03-21T19:30:15+01:00",
 				"url": "https://blog.offordwoolley.com/2023/03/21/uk-gov-report.html",
 				"tags": ["digital","transformation","public sector"]
 			},
@@ -74,7 +92,7 @@
 				
 				"content_html": "<p>The role of Buddhist monks on TikTok- <a href=\"https://restofworld.org/2023/buddhist-monk-tiktok-monastic-code\">restofworld.org/2023/budd&hellip;</a></p>\n",
 				"content_text": "The role of Buddhist monks on TikTok- [restofworld.org/2023/budd...](https://restofworld.org/2023/buddhist-monk-tiktok-monastic-code)\n",
-				"date_published": "2023-03-08T20:05:49+02:00",
+				"date_published": "2023-03-08T19:05:49+01:00",
 				"url": "https://blog.offordwoolley.com/2023/03/08/the-role-of.html",
 				"tags": ["social","tiktok"]
 			},
@@ -83,7 +101,7 @@
 				
 				"content_html": "<p>Tips for using ChatGPT to save time when coding - <a href=\"https://twitter.com/svpino/status/1624392828154712064?s=12&amp;t=xAb617AFWx28xwUGYJP_Lw\">twitter.com/svpino/st&hellip;</a></p>\n",
 				"content_text": "Tips for using ChatGPT to save time when coding - [twitter.com/svpino/st...](https://twitter.com/svpino/status/1624392828154712064?s=12&t=xAb617AFWx28xwUGYJP_Lw)\n",
-				"date_published": "2023-02-15T12:07:31+02:00",
+				"date_published": "2023-02-15T11:07:31+01:00",
 				"url": "https://blog.offordwoolley.com/2023/02/15/tips-for-using.html",
 				"tags": ["chatgpt","ai","dev"]
 			},
@@ -92,7 +110,7 @@
 				
 				"content_html": "<p>Nice piece on the recession on VR - <a href=\"https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus\">www.matthewball.vc/all/why-v&hellip;</a></p>\n",
 				"content_text": "Nice piece on the recession on VR - [www.matthewball.vc/all/why-v...](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)\n",
-				"date_published": "2023-02-01T23:15:40+02:00",
+				"date_published": "2023-02-01T22:15:40+01:00",
 				"url": "https://blog.offordwoolley.com/2023/02/01/nice-piece-on.html",
 				"tags": ["vr"]
 			},
@@ -101,7 +119,7 @@
 				
 				"content_html": "<p>A good comparison of AI companies vs traditional software companies- <a href=\"https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software-2/\">a16z.com/2020/02/1&hellip;</a></p>\n",
 				"content_text": "A good comparison of AI companies vs traditional software companies- [a16z.com/2020/02/1...](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software-2/)\n",
-				"date_published": "2023-01-25T13:56:30+02:00",
+				"date_published": "2023-01-25T12:56:30+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/25/a-good-comparison.html",
 				"tags": ["ai"]
 			},
@@ -110,7 +128,7 @@
 				
 				"content_html": "<p>Useful think-piece on “Who owns the Generative AI platform?” - <a href=\"https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/\">a16z.com/2023/01/1&hellip;</a></p>\n",
 				"content_text": "Useful think-piece on “Who owns the Generative AI platform?” - [a16z.com/2023/01/1...](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/)\n",
-				"date_published": "2023-01-25T00:55:47+02:00",
+				"date_published": "2023-01-24T23:55:47+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/24/useful-thinkpiece-on.html",
 				"tags": ["chatgpt","ai"]
 			},
@@ -119,7 +137,7 @@
 				
 				"content_html": "<p>Using AI to assist with coding - <a href=\"https://avc.com/2023/01/the-ai-assist/?lctg=161355101\">avc.com/2023/01/t&hellip;</a></p>\n",
 				"content_text": "Using AI to assist with coding - [avc.com/2023/01/t...](https://avc.com/2023/01/the-ai-assist/?lctg=161355101)\n",
-				"date_published": "2023-01-23T16:50:00+02:00",
+				"date_published": "2023-01-23T15:50:00+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/23/using-ai-to.html",
 				"tags": ["chatgpt","ai","copilot","dev"]
 			},
@@ -128,7 +146,7 @@
 				
 				"content_html": "<p>ChatGPT isn’t magic, Time article on the human cost - <a href=\"https://time.com/6247678/openai-chatgpt-kenya-workers\">time.com/6247678/o&hellip;</a></p>\n",
 				"content_text": "ChatGPT isn’t magic, Time article on the human cost - [time.com/6247678/o...](https://time.com/6247678/openai-chatgpt-kenya-workers)\n",
-				"date_published": "2023-01-21T12:52:05+02:00",
+				"date_published": "2023-01-21T11:52:05+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/21/chatgpt-isnt-magic.html",
 				"tags": ["chatgpt","ai","kenya"]
 			},
@@ -137,7 +155,7 @@
 				
 				"content_html": "<p>How tech is used as a (suboptimal) workaround for subway underinvestment in Mexico - <a href=\"https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains\">restofworld.org/2023/mexi&hellip;</a></p>\n",
 				"content_text": "How tech is used as a (suboptimal) workaround for subway underinvestment in Mexico - [restofworld.org/2023/mexi...](https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains)\n",
-				"date_published": "2023-01-18T12:45:46+02:00",
+				"date_published": "2023-01-18T11:45:46+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/18/104546.html",
 				"tags": ["transport","whatsapp","mexico"]
 			},
@@ -146,7 +164,7 @@
 				
 				"content_html": "<p>ChatGPT being used for cyber crime - <a href=\"https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/\">research.checkpoint.com/2023/opwn&hellip;</a></p>\n",
 				"content_text": "ChatGPT being used for cyber crime - [research.checkpoint.com/2023/opwn...](https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/)\n",
-				"date_published": "2023-01-18T12:30:31+02:00",
+				"date_published": "2023-01-18T11:30:31+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/18/chatgpt-being-used.html",
 				"tags": ["chatgpt","ai","cyber"]
 			},
@@ -155,7 +173,7 @@
 				
 				"content_html": "<p>Long piece in Nature on lack of evidence of planted stories impacting elections - <a href=\"https://www.nature.com/articles/s41467-022-35576-9\">www.nature.com/articles/&hellip;</a></p>\n",
 				"content_text": "Long piece in Nature on lack of evidence of planted stories impacting elections - [www.nature.com/articles/...](https://www.nature.com/articles/s41467-022-35576-9)\n",
-				"date_published": "2023-01-18T12:29:18+02:00",
+				"date_published": "2023-01-18T11:29:18+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/18/long-piece-in.html",
 				"tags": ["twitter","politics"]
 			},
@@ -164,7 +182,7 @@
 				
 				"content_html": "<p>Deep dive into how Twitter Fact-checking system - <a href=\"https://www.bloomberg.com/graphics/2022-twitter-birdwatch-community-notes-misinformation-politics/?leadSource=uverify%20wall\">www.bloomberg.com/graphics/&hellip;</a></p>\n",
 				"content_text": "Deep dive into how Twitter Fact-checking system - [www.bloomberg.com/graphics/...](https://www.bloomberg.com/graphics/2022-twitter-birdwatch-community-notes-misinformation-politics/?leadSource=uverify%20wall)\n",
-				"date_published": "2023-01-04T13:55:58+02:00",
+				"date_published": "2023-01-04T12:55:58+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/04/deep-dive-into.html",
 				"tags": ["digital","twitter"]
 			},
@@ -173,7 +191,7 @@
 				
 				"content_html": "<p>Ofcom research of time spent on mobile in 2022 - <a href=\"https://www.ofcom.org.uk/__data/assets/pdf_file/0026/247544/annex-5-ipsos-iris-passive-monitoring-analysis.pdf\">https://www.ofcom.org.uk/__data/assets/pdf_file/0026/247544/annex-5-ipsos-iris-passive-monitoring-analysis.pdf</a></p>\n",
 				"content_text": "Ofcom research of time spent on mobile in 2022 - https://www.ofcom.org.uk/__data/assets/pdf_file/0026/247544/annex-5-ipsos-iris-passive-monitoring-analysis.pdf\n",
-				"date_published": "2023-01-04T13:46:18+02:00",
+				"date_published": "2023-01-04T12:46:18+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/04/ofcom-research-of.html",
 				"tags": ["digital","mobile","research"]
 			},
@@ -182,7 +200,7 @@
 				
 				"content_html": "<p>Digital blueprint for Greater Manchester - <a href=\"https://www.greatermanchester-ca.gov.uk/media/6275/gmca_blueprint_jul-22.pdf\">https://www.greatermanchester-ca.gov.uk/media/6275/gmca_blueprint_jul-22.pdf</a></p>\n",
 				"content_text": "Digital blueprint for Greater Manchester - https://www.greatermanchester-ca.gov.uk/media/6275/gmca_blueprint_jul-22.pdf\n",
-				"date_published": "2023-01-04T11:27:21+02:00",
+				"date_published": "2023-01-04T10:27:21+01:00",
 				"url": "https://blog.offordwoolley.com/2023/01/04/digital-blueprint-for.html",
 				"tags": ["digital","manchester"]
 			},
@@ -191,7 +209,7 @@
 				
 				"content_html": "<p>Useful graphic comparing Product vs Delivery Mgmt activities</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Useful graphic comparing Product vs Delivery Mgmt activities\n\n<img src=\"uploads/2022/907c94836f.jpg\" width=\"463\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-26T00:10:16+02:00",
+				"date_published": "2022-12-25T23:10:16+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/221016.html",
 				"tags": ["digital","product","delivery"]
 			},
@@ -200,7 +218,7 @@
 				
 				"content_html": "<p>Graphic showing impact of C-19 - during its height- on digital transformation</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Graphic showing impact of C-19 - during its height- on digital transformation \n\n<img src=\"uploads/2022/6f85ede20d.jpg\" width=\"600\" height=\"366\" alt=\"\">\n",
-				"date_published": "2022-12-26T00:08:50+02:00",
+				"date_published": "2022-12-25T23:08:50+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/graphic-showing-impact.html",
 				"tags": ["digital","transformation"]
 			},
@@ -209,7 +227,7 @@
 				
 				"content_html": "<p>Helpful graphic showing the transition from waterfall to Agile</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Helpful graphic showing the transition from waterfall to Agile\n\n<img src=\"uploads/2022/a0f6194d32.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"date_published": "2022-12-26T00:08:05+02:00",
+				"date_published": "2022-12-25T23:08:05+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/helpful-graphic-showing.html",
 				"tags": ["digital","product","delivery","transformation","agile"]
 			},
@@ -218,7 +236,7 @@
 				
 				"content_html": "<p>Nice Venn Diagram for Product, Tech, Delivery overlaps</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Nice Venn Diagram for Product, Tech, Delivery overlaps\n\n<img src=\"uploads/2022/9d65e28cca.jpg\" width=\"600\" height=\"465\" alt=\"\">\n",
-				"date_published": "2022-12-26T00:07:01+02:00",
+				"date_published": "2022-12-25T23:07:01+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/nice-venn-diagram.html",
 				"tags": ["digital","product","delivery","agile"]
 			},
@@ -227,7 +245,7 @@
 				
 				"content_html": "<p>Useful graphic comparing Product vs Delivery expectations</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Useful graphic comparing Product vs Delivery expectations\n\n<img src=\"uploads/2022/bf88d107ff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-26T00:00:07+02:00",
+				"date_published": "2022-12-25T23:00:07+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/useful-graphic-comparing.html",
 				"tags": ["digital","product"]
 			},
@@ -236,7 +254,7 @@
 				
 				"content_html": "<p>Ben Evans 2021 end of year thoughts - <a href=\"https://www.ben-evans.com/presentations\">www.ben-evans.com/presentat&hellip;</a></p>\n",
 				"content_text": "Ben Evans 2021 end of year thoughts - [www.ben-evans.com/presentat...](https://www.ben-evans.com/presentations)\n",
-				"date_published": "2022-12-25T23:54:45+02:00",
+				"date_published": "2022-12-25T22:54:45+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/ben-evans-end.html",
 				"tags": ["digital","web3","ecomm","cloud"]
 			},
@@ -245,7 +263,7 @@
 				
 				"content_html": "<p>Nice article on the Wordle creator on going viral and what to do next - <a href=\"https://techcrunch.com/2022/01/12/josh-wardle-interview-wordle/\">techcrunch.com/2022/01/1&hellip;</a></p>\n",
 				"content_text": "Nice article on the Wordle creator on going viral and what to do next - [techcrunch.com/2022/01/1...](https://techcrunch.com/2022/01/12/josh-wardle-interview-wordle/)\n",
-				"date_published": "2022-12-25T23:52:26+02:00",
+				"date_published": "2022-12-25T22:52:26+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/nice-article-on.html",
 				"tags": ["digital","product","startups"]
 			},
@@ -254,7 +272,7 @@
 				
 				"content_html": "<p>Useful post on why diversity in product teams is important - FB Marketplace - <a href=\"https://www.lennysnewsletter.com/p/the-inside-story-of-facebook-marketplace?r=il6m\">www.lennysnewsletter.com/p/the-ins&hellip;</a></p>\n",
 				"content_text": "Useful post on why diversity in product teams is important - FB Marketplace - [www.lennysnewsletter.com/p/the-ins...](https://www.lennysnewsletter.com/p/the-inside-story-of-facebook-marketplace?r=il6m)\n",
-				"date_published": "2022-12-25T11:31:10+02:00",
+				"date_published": "2022-12-25T10:31:10+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/useful-post-on.html",
 				"tags": ["digital","product","diversity"]
 			},
@@ -263,7 +281,7 @@
 				
 				"content_html": "<p>Simple guide to Web3 tech stack - <a href=\"https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack\">www.coinbase.com/blog/a-si&hellip;</a></p>\n",
 				"content_text": "Simple guide to Web3 tech stack - [www.coinbase.com/blog/a-si...](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack)\n",
-				"date_published": "2022-12-24T23:56:40+02:00",
+				"date_published": "2022-12-24T22:56:40+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/24/simple-guide-to.html",
 				"tags": ["digital","crypto","web3"]
 			},
@@ -272,7 +290,7 @@
 				
 				"content_html": "<p>Useful history on a decade of contactless payments on TfL - <a href=\"https://www.ianvisits.co.uk/articles/a-decade-of-contactless-payments-on-london-public-transport-59366/\">www.ianvisits.co.uk/articles/&hellip;</a></p>\n",
 				"content_text": "Useful history on a decade of contactless payments on TfL - [www.ianvisits.co.uk/articles/...](https://www.ianvisits.co.uk/articles/a-decade-of-contactless-payments-on-london-public-transport-59366/)\n",
-				"date_published": "2022-12-24T19:48:38+02:00",
+				"date_published": "2022-12-24T18:48:38+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/24/a-decade-of.html",
 				"tags": ["digital","transport","london","mobile"]
 			}
