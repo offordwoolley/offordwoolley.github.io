@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/05/29/list-of-most.html",
+				
+				"content_html": "<p>List of most visited AI sites by monthly traffic - <a href=\"https://www.ilib.com/ai-websites?utm_source=substack&amp;utm_medium=email\">https://www.ilib.com/ai-websites?utm_source=substack&amp;utm_medium=email</a></p>\n",
+				"content_text": "List of most visited AI sites by monthly traffic - https://www.ilib.com/ai-websites?utm_source=substack&utm_medium=email\n",
+				"date_published": "2023-05-29T08:47:11+01:00",
+				"url": "https://blog.offordwoolley.com/2023/05/29/list-of-most.html",
+				"tags": ["ai"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/05/03/useful-article-on.html",
 				
 				"content_html": "<p>Useful article on compute costs of training LLM’s - <a href=\"https://a16z.com/2023/04/27/navigating-the-high-cost-of-ai-compute/\">a16z.com/2023/04/2&hellip;</a></p>\n",
