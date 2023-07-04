@@ -7,13 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/07/04/why-rest-of.html",
+				
+				"content_html": "<p>Why Rest of World is a great site - article on how Global South countries are being failed by social media content moderation tools - <a href=\"https://restofworld.org/2023/ai-content-moderation-hate-speech\">restofworld.org/2023/ai-c&hellip;</a></p>\n",
+				"content_text": "Why Rest of World is a great site - article on how Global South countries are being failed by social media content moderation tools - [restofworld.org/2023/ai-c...](https://restofworld.org/2023/ai-content-moderation-hate-speech)\n",
+				"date_published": "2023-07-04T23:11:22+01:00",
+				"url": "https://blog.offordwoolley.com/2023/07/04/why-rest-of.html",
+				"tags": ["ai","social"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/05/29/list-of-most.html",
 				
-				"content_html": "<p>List of most visited AI sites by monthly traffic - <a href=\"https://www.ilib.com/ai-websites?utm_source=substack&amp;utm_medium=email\">https://www.ilib.com/ai-websites?utm_source=substack&amp;utm_medium=email</a></p>\n",
-				"content_text": "List of most visited AI sites by monthly traffic - https://www.ilib.com/ai-websites?utm_source=substack&utm_medium=email\n",
+				"content_html": "<p>List of most visited AI sites by monthly traffic - <a href=\"https://www.ilib.com/ai-websites\">www.ilib.com/ai-websit&hellip;</a></p>\n",
+				"content_text": "List of most visited AI sites by monthly traffic - [www.ilib.com/ai-websit...](https://www.ilib.com/ai-websites)\n",
 				"date_published": "2023-05-29T08:47:11+01:00",
 				"url": "https://blog.offordwoolley.com/2023/05/29/list-of-most.html",
-				"tags": ["ai"]
+				"tags": ["ai","llm"]
 			},
 			{
 				"id": "http://offordwoolley.micro.blog/2023/05/03/useful-article-on.html",
