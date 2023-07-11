@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/07/11/the-russell-group.html",
+				
+				"content_html": "<p>The Russell Group principles on AI in education - <a href=\"https://russellgroup.ac.uk/news/new-principles-on-use-of-ai-in-education/\">russellgroup.ac.uk/news/new-&hellip;</a></p>\n",
+				"content_text": "The Russell Group principles on AI in education - [russellgroup.ac.uk/news/new-...](https://russellgroup.ac.uk/news/new-principles-on-use-of-ai-in-education/)\n",
+				"date_published": "2023-07-11T20:19:42+01:00",
+				"url": "https://blog.offordwoolley.com/2023/07/11/the-russell-group.html",
+				"tags": ["ai","education"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/07/04/why-rest-of.html",
 				
 				"content_html": "<p>Why Rest of World is a great site - article on how Global South countries are being failed by social media content moderation tools - <a href=\"https://restofworld.org/2023/ai-content-moderation-hate-speech\">restofworld.org/2023/ai-c&hellip;</a></p>\n",
