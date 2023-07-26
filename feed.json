@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/07/26/research-paper-on.html",
+				
+				"content_html": "<p>Research paper on how the Great Firewall of China is blocking encrypted traffic - <a href=\"https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf\">gfw.report/publicati&hellip;</a></p>\n",
+				"content_text": "Research paper on how the Great Firewall of China is blocking encrypted traffic - [gfw.report/publicati...](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)\n",
+				"date_published": "2023-07-26T19:10:39+01:00",
+				"url": "https://blog.offordwoolley.com/2023/07/26/research-paper-on.html",
+				"tags": ["security","encryption","china"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/07/16/some-fun-stable.html",
+				
+				"content_html": "<p>Some fun Stable Diffusion based tools - <a href=\"https://clipdrop.co/tools\">clipdrop.co/tools</a></p>\n",
+				"content_text": "Some fun Stable Diffusion based tools - [clipdrop.co/tools](https://clipdrop.co/tools)\n",
+				"date_published": "2023-07-16T11:30:55+01:00",
+				"url": "https://blog.offordwoolley.com/2023/07/16/some-fun-stable.html",
+				"tags": ["ai","stablediffusion"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/07/11/the-russell-group.html",
 				
 				"content_html": "<p>The Russell Group principles on AI in education - <a href=\"https://russellgroup.ac.uk/news/new-principles-on-use-of-ai-in-education/\">russellgroup.ac.uk/news/new-&hellip;</a></p>\n",
@@ -235,7 +253,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/221016.html",
 				
 				"content_html": "<p>Useful graphic comparing Product vs Delivery Mgmt activities</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Useful graphic comparing Product vs Delivery Mgmt activities\n\n<img src=\"uploads/2022/907c94836f.jpg\" width=\"463\" height=\"600\" alt=\"\">\n",
+				"content_text": "Useful graphic comparing Product vs Delivery Mgmt activities\n\n<img src=\"https://cdn.uploads.micro.blog/95513/2022/907c94836f.jpg\" width=\"463\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-25T23:10:16+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/221016.html",
 				"tags": ["digital","product","delivery"]
@@ -244,7 +262,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/graphic-showing-impact.html",
 				
 				"content_html": "<p>Graphic showing impact of C-19 - during its height- on digital transformation</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Graphic showing impact of C-19 - during its height- on digital transformation \n\n<img src=\"uploads/2022/6f85ede20d.jpg\" width=\"600\" height=\"366\" alt=\"\">\n",
+				"content_text": "Graphic showing impact of C-19 - during its height- on digital transformation \n\n<img src=\"https://cdn.uploads.micro.blog/95513/2022/6f85ede20d.jpg\" width=\"600\" height=\"366\" alt=\"\">\n",
 				"date_published": "2022-12-25T23:08:50+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/graphic-showing-impact.html",
 				"tags": ["digital","transformation"]
@@ -253,7 +271,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/helpful-graphic-showing.html",
 				
 				"content_html": "<p>Helpful graphic showing the transition from waterfall to Agile</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Helpful graphic showing the transition from waterfall to Agile\n\n<img src=\"uploads/2022/a0f6194d32.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Helpful graphic showing the transition from waterfall to Agile\n\n<img src=\"https://cdn.uploads.micro.blog/95513/2022/a0f6194d32.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-12-25T23:08:05+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/helpful-graphic-showing.html",
 				"tags": ["digital","product","delivery","transformation","agile"]
@@ -262,7 +280,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/nice-venn-diagram.html",
 				
 				"content_html": "<p>Nice Venn Diagram for Product, Tech, Delivery overlaps</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice Venn Diagram for Product, Tech, Delivery overlaps\n\n<img src=\"uploads/2022/9d65e28cca.jpg\" width=\"600\" height=\"465\" alt=\"\">\n",
+				"content_text": "Nice Venn Diagram for Product, Tech, Delivery overlaps\n\n<img src=\"https://cdn.uploads.micro.blog/95513/2022/9d65e28cca.jpg\" width=\"600\" height=\"465\" alt=\"\">\n",
 				"date_published": "2022-12-25T23:07:01+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/nice-venn-diagram.html",
 				"tags": ["digital","product","delivery","agile"]
@@ -271,7 +289,7 @@
 				"id": "http://offordwoolley.micro.blog/2022/12/25/useful-graphic-comparing.html",
 				
 				"content_html": "<p>Useful graphic comparing Product vs Delivery expectations</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Useful graphic comparing Product vs Delivery expectations\n\n<img src=\"uploads/2022/bf88d107ff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Useful graphic comparing Product vs Delivery expectations\n\n<img src=\"https://cdn.uploads.micro.blog/95513/2022/bf88d107ff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-25T23:00:07+01:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/useful-graphic-comparing.html",
 				"tags": ["digital","product"]
