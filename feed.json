@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/10/05/products-not-built.html",
+				
+				"content_html": "<p>40 products not built in the West that are changing tech - <a href=\"https://restofworld.org/2023/rest-vs-west\">restofworld.org/2023/rest&hellip;</a></p>\n",
+				"content_text": "40 products not built in the West that are changing tech - [restofworld.org/2023/rest...](https://restofworld.org/2023/rest-vs-west)\n",
+				"date_published": "2023-10-05T09:09:52-06:00",
+				"url": "https://blog.offordwoolley.com/2023/10/05/products-not-built.html",
+				"tags": ["product","global"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/09/08/guide-for-teachers.html",
 				
 				"content_html": "<p>Guide for teachers on how ChatGPT can/can’t be used - <a href=\"https://openai.com/blog/teaching-with-ai\">openai.com/blog/teac&hellip;</a></p>\n",
