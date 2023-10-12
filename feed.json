@@ -7,13 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/10/12/blog-post-on.html",
+				
+				"content_html": "<p>Blog post on how copyright and competitions laws in the EU can be applied to GenAI - <a href=\"https://theplatformlaw.blog/2023/06/14/generative-ai-and-the-media-sector-preliminary-thoughts-on-a-legal-and-policy-agenda/\">theplatformlaw.blog/2023/06/1&hellip;</a></p>\n",
+				"content_text": "Blog post on how copyright and competitions laws in the EU can be applied to GenAI - [theplatformlaw.blog/2023/06/1...](https://theplatformlaw.blog/2023/06/14/generative-ai-and-the-media-sector-preliminary-thoughts-on-a-legal-and-policy-agenda/)\n",
+				"date_published": "2023-10-12T12:10:20-06:00",
+				"url": "https://blog.offordwoolley.com/2023/10/12/blog-post-on.html",
+				"tags": ["ai"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/10/05/products-not-built.html",
 				
 				"content_html": "<p>40 products not built in the West that are changing tech - <a href=\"https://restofworld.org/2023/rest-vs-west\">restofworld.org/2023/rest&hellip;</a></p>\n",
 				"content_text": "40 products not built in the West that are changing tech - [restofworld.org/2023/rest...](https://restofworld.org/2023/rest-vs-west)\n",
 				"date_published": "2023-10-05T09:09:52-06:00",
 				"url": "https://blog.offordwoolley.com/2023/10/05/products-not-built.html",
-				"tags": ["product","global"]
+				"tags": ["product","tech","global"]
 			},
 			{
 				"id": "http://offordwoolley.micro.blog/2023/09/08/guide-for-teachers.html",
@@ -67,7 +76,7 @@
 				"content_text": "Why Rest of World is a great site - article on how Global South countries are being failed by social media content moderation tools - [restofworld.org/2023/ai-c...](https://restofworld.org/2023/ai-content-moderation-hate-speech)\n",
 				"date_published": "2023-07-04T16:11:22-06:00",
 				"url": "https://blog.offordwoolley.com/2023/07/04/why-rest-of.html",
-				"tags": ["ai","social"]
+				"tags": ["ai","social","global"]
 			},
 			{
 				"id": "http://offordwoolley.micro.blog/2023/05/29/list-of-most.html",
@@ -121,7 +130,7 @@
 				"content_text": "Article about India exporting its home grown digital payments system but some good content on open source digital identity platforms that help countries develop independence from big western companies - [restofworld.org/2023/indi...](https://restofworld.org/2023/india-upi-digital-payments-diplomacy)\n",
 				"date_published": "2023-04-12T01:24:41-06:00",
 				"url": "https://blog.offordwoolley.com/2023/04/12/article-about-india.html",
-				"tags": ["tech","identity"]
+				"tags": ["tech","identity","global"]
 			},
 			{
 				"id": "http://offordwoolley.micro.blog/2023/04/12/some-great-pics.html",
@@ -166,7 +175,7 @@
 				"content_text": "The role of Buddhist monks on TikTok- [restofworld.org/2023/budd...](https://restofworld.org/2023/buddhist-monk-tiktok-monastic-code)\n",
 				"date_published": "2023-03-08T12:05:49-06:00",
 				"url": "https://blog.offordwoolley.com/2023/03/08/the-role-of.html",
-				"tags": ["social","tiktok"]
+				"tags": ["social","tiktok","global"]
 			},
 			{
 				"id": "http://offordwoolley.micro.blog/2023/02/15/tips-for-using.html",
@@ -229,7 +238,7 @@
 				"content_text": "How tech is used as a (suboptimal) workaround for subway underinvestment in Mexico - [restofworld.org/2023/mexi...](https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains)\n",
 				"date_published": "2023-01-18T04:45:46-06:00",
 				"url": "https://blog.offordwoolley.com/2023/01/18/104546.html",
-				"tags": ["transport","whatsapp","mexico"]
+				"tags": ["transport","whatsapp","mexico","global"]
 			},
 			{
 				"id": "http://offordwoolley.micro.blog/2023/01/18/chatgpt-being-used.html",
