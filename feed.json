@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/10/12/another-good-row.html",
+				
+				"content_html": "<p>Another good RoW article about bias in visual AI tools - <a href=\"https://restofworld.org/2023/ai-image-stereotypes\">restofworld.org/2023/ai-i&hellip;</a></p>\n",
+				"content_text": "Another good RoW article about bias in visual AI tools - [restofworld.org/2023/ai-i...](https://restofworld.org/2023/ai-image-stereotypes)\n",
+				"date_published": "2023-10-12T12:19:42-06:00",
+				"url": "https://blog.offordwoolley.com/2023/10/12/another-good-row.html",
+				"tags": ["ai","global"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/10/12/us-gov-report.html",
+				
+				"content_html": "<p>US Gov report on how they feel Chinese state propaganda is shaping global information sharing - <a href=\"https://www.state.gov/gec-special-report-how-the-peoples-republic-of-china-seeks-to-reshape-the-global-information-environment/\">www.state.gov/gec-speci&hellip;</a></p>\n",
+				"content_text": "US Gov report on how they feel Chinese state propaganda is shaping global information sharing - [www.state.gov/gec-speci...](https://www.state.gov/gec-special-report-how-the-peoples-republic-of-china-seeks-to-reshape-the-global-information-environment/)\n",
+				"date_published": "2023-10-12T12:14:44-06:00",
+				"url": "https://blog.offordwoolley.com/2023/10/12/us-gov-report.html",
+				"tags": ["politics","china","us"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/10/12/blog-post-on.html",
 				
 				"content_html": "<p>Blog post on how copyright and competitions laws in the EU can be applied to GenAI - <a href=\"https://theplatformlaw.blog/2023/06/14/generative-ai-and-the-media-sector-preliminary-thoughts-on-a-legal-and-policy-agenda/\">theplatformlaw.blog/2023/06/1&hellip;</a></p>\n",
