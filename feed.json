@@ -1,17 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Steve Offord-Woolley’s Blog",
+	"title": "My Blog",
 	"icon": "https://micro.blog/offordwoolley/avatar.jpg",
 	"home_page_url": "https://blog.offordwoolley.com/",
 	"feed_url": "https://blog.offordwoolley.com/feed.json",
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/11/30/techie-blog-from.html",
+				
+				"content_html": "<p><a href=\"https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e\">Techie blog from Google </a>and how they architecture their LLM training environments</p>\n",
+				"content_text": "[Techie blog from Google ](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)and how they architecture their LLM training environments\n",
+				"date_published": "2023-11-30T19:43:55+00:00",
+				"url": "https://blog.offordwoolley.com/2023/11/30/techie-blog-from.html",
+				"tags": ["ai","llm"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/10/28/takeaways-from-backable.html",
 				"title": "10 takeaways from ‘Backable’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Backable: The Surprising Truth Behind What Makes People Take a Chance on You Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n  <p>Backable: The Surprising Truth Behind What Makes People Take a Chance on You is a book by Suneel Gupta that identifies and explains the qualities that make people backable. Gupta argues that success is not just about talent, charisma, or ideas, but also about the ability to persuade others to take a chance on you.</p>\n  <h2>Takeaways for Business Leaders</h2>\n  <ol>\n    <li>\n      <strong>Be clear about your vision and why you care about it.</strong> People are more likely to back someone who has a clear vision for the future and who is passionate about what they are doing.\n    </li>\n    <li>\n      <strong>Be authentic and genuine.</strong> People can spot a fake from a mile away. Be yourself and let your personality shine through.\n    </li>\n    <li>\n      <strong>Be competent and credible.</strong> People need to believe that you are capable of doing what you say you are going to do. Build your credibility by developing your skills and knowledge, and by delivering on your promises.\n    </li>\n    <li>\n      <strong>Be reliable and trustworthy.</strong> People need to know that they can count on you. Be reliable by meeting your deadlines and keeping your commitments. Be trustworthy by being honest and transparent.\n    </li>\n    <li>\n      <strong>Be passionate and enthusiastic.</strong> People are drawn to those who are passionate about what they are doing. Show your enthusiasm by talking about your vision and goals with energy and excitement.\n    </li>\n    <li>\n      <strong>Be able to tell a compelling story.</strong> People are more likely to back someone who can tell a compelling story about their vision and why it matters. Practice your storytelling skills so that you can deliver your message in a way that is both informative and inspiring.\n    </li>\n    <li>\n      <strong>Build relationships and trust.</strong> Building relationships and trust is essential for gaining support and backing. Get to know people, understand their needs, and nurture trust-based connections.\n    </li>\n    <li>\n      <strong>Show resilience and the ability to learn from failure.</strong> Resilience and the ability to bounce back from setbacks are key qualities. Be willing to learn from your failures and adapt.\n    </li>\n    <li>\n      <strong>Communicate your progress.</strong> Keep your backers informed about your progress and milestones. Transparency builds confidence.\n    </li>\n    <li>\n      <strong>Seek mentors and advisors.</strong> Don't be afraid to seek guidance from experienced mentors and advisors who can offer valuable insights and support.\n    </li>\n  </ol>\n</body>\n</html>\n",
-				"date_published": "2023-10-28T18:56:07+01:00",
+				"date_published": "2023-10-28T17:56:07+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/28/takeaways-from-backable.html",
 				"tags": ["books","leadership","psychology"]
 			},
@@ -20,7 +29,7 @@
 				"title": "10 takeaways from ‘True North’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>True North: Emerging Leader Edition Summary and Takeaways for Business Leaders</title>\n\n</head>\n<body>\n  <p>True North: Emerging Leader Edition is a book by Bill George and Zach Clayton that helps readers discover their \"True North\" - their authentic leadership calling. The book also provides guidance on how to lead with courage, compassion, and moral courage.</p>\n\n  <h2>Takeaways for Business Leaders</h2>\n  <ol>\n    <li>\n      <strong>Discover your True North.</strong> Your True North is your authentic leadership calling. It is the purpose that drives you and makes you feel most alive. To discover your True North, ask yourself the following questions: What are my passions? What are my values? What are my unique skills and talents? What kind of impact do I want to make on the world?\n    </li>\n    <li>\n      <strong>Lead with courage.</strong> Courageous leaders are not afraid to stand up for what they believe in, even when it is unpopular. They are also willing to take risks and make tough decisions.\n    </li>\n    <li>\n      <strong>Lead with compassion.</strong> Compassionate leaders care about their employees and customers as individuals. They are empathetic and understanding, and they treat people with respect.\n    </li>\n    <li>\n      <strong>Lead with moral courage.</strong> Leaders with moral courage are willing to stand up for what is right, even when it is difficult or unpopular. They are also willing to admit when they are wrong and make amends.\n    </li>\n    <li>\n      <strong>Be authentic.</strong> Authentic leaders are genuine and true to themselves. They do not try to be someone they are not.\n    </li>\n    <li>\n      <strong>Be humble.</strong> Humble leaders are not arrogant or self-important. They are willing to learn from others and give credit where credit is due.\n    </li>\n    <li>\n      <strong>Be a servant leader.</strong> Servant leaders focus on the needs of their employees and customers. They are not afraid to roll up their sleeves and get dirty.\n    </li>\n    <li>\n      <strong>Build a strong team.</strong> No leader can be successful without a strong team. Surround yourself with talented individuals and empower them to contribute to the organization's success.\n    </li>\n  </ol>\n</body>\n</html>\n",
-				"date_published": "2023-10-28T18:52:48+01:00",
+				"date_published": "2023-10-28T17:52:48+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/28/takeaways-from-true.html",
 				"tags": ["books","leadership","psychology"]
 			},
@@ -29,7 +38,7 @@
 				"title": "10 takeaways from ‘Cultish’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Cultish: The Language of Belonging and Transcendence Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n  <p>Cultish: The Language of Belonging and Transcendence is a book by Amanda Montell that explores the ways in which cults use language to manipulate and control their followers. Montell argues that cultish language is not just found in cults, but is also present in many other areas of our lives, such as social media, politics, and business.</p>\n\n  <h2>Takeaways for Business Leaders</h2>\n\n  <ol>\n    <li>\n      <strong>Be aware of the power of language:</strong> Language is a powerful tool that can be used to influence and persuade people. Business leaders need to be aware of the power of language and use it responsibly.\n    </li>\n    <li>\n      <strong>Avoid using cultish language:</strong> Cultish language can be used to manipulate and control people. Business leaders should avoid using cultish language in their communications with employees, customers, and the public.\n    </li>\n    <li>\n      <strong>Create a culture of trust and transparency:</strong> Cults often thrive on secrecy and isolation. Business leaders can create a healthy and productive work environment by creating a culture of trust and transparency.\n    </li>\n    <li>\n      <strong>Empower employees to think critically:</strong> Cults often discourage critical thinking. Business leaders can empower employees to think critically by encouraging them to ask questions and challenge the status quo.\n    </li>\n    <li>\n      <strong>Be open to feedback:</strong> Cults often discourage feedback. Business leaders can create a more innovative and productive work environment by being open to feedback from employees.\n    </li>\n    <li>\n      <strong>Celebrate diversity:</strong> Cults often promote a monoculture. Business leaders can create a more inclusive and productive work environment by celebrating diversity.\n    </li>\n    <li>\n      <strong>Be mindful of your own power:</strong> Leaders have a lot of power. Business leaders need to be mindful of the influence they have and use it responsibly.\n    </li>\n    <li>\n      <strong>Promote ethical behavior:</strong> Cults often engage in unethical and manipulative practices. Business leaders should promote ethical behavior and set an example for their employees.\n    </li>\n    <li>\n      <strong>Encourage independent thinking:</strong> Cults discourage independent thinking. Business leaders should encourage employees to think for themselves and make informed decisions.\n    </li>\n    <li>\n      <strong>Invest in education and awareness:</strong> Cultish behavior can be subtle. Business leaders should invest in education and awareness programs to help employees recognize and resist cultish language and manipulation.\n    </li>\n  </ol>\n</body>\n</html>\n",
-				"date_published": "2023-10-28T18:48:24+01:00",
+				"date_published": "2023-10-28T17:48:24+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/28/takeaways-from-cultish.html",
 				"tags": ["books","leadership","psychology"]
 			},
@@ -38,7 +47,7 @@
 				"title": "10 takeaways from ‘The Creative Act’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Rick Rubin's The Creative Act: A Way of Being Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n  <p>The Creative Act: A Way of Being is a book by Rick Rubin, legendary music producer, in which he shares his insights on creativity and the creative process. Rubin argues that creativity is not a talent that only a select few possess, but rather a skill that can be cultivated by anyone.</p>\n\n  <h2>Takeaways for Business Leaders</h2>\n  <ol>\n    <li>\n      <strong>Creativity is a process, not a product:</strong> Rubin believes that creativity is not about creating perfect products, but rather about engaging in a process of exploration and experimentation. Business leaders can foster creativity in their organizations by creating a culture where it is safe to fail and where new ideas are encouraged.\n    </li>\n    <li>\n      <strong>Get rid of distractions:</strong> Rubin believes that distractions can kill creativity. Business leaders can create an environment conducive to creativity by minimizing distractions and providing employees with the time and space they need to focus on their work.\n    </li>\n    <li>\n      <strong>Trust your intuition:</strong> Rubin believes that our intuition is a powerful tool for creativity. Business leaders can make better decisions by trusting their intuition and following their gut.\n    </li>\n    <li>\n      <strong>Don't be afraid to experiment:</strong> Rubin believes that experimentation is essential for creativity. Business leaders can foster creativity in their organizations by encouraging employees to experiment with new ideas and approaches.\n    </li>\n    <li>\n      <strong>Be patient:</strong> Rubin believes that creativity takes time. Business leaders need to be patient and allow time for employees to explore new ideas and develop their creativity.\n    </li>\n    <li>\n      <strong>Be open to feedback:</strong> Rubin believes that feedback is essential for growth and development. Business leaders can create a culture of creativity by encouraging employees to give and receive feedback.\n    </li>\n    <li>\n      <strong>Celebrate success:</strong> Rubin believes that it is important to celebrate success. Business leaders can motivate and inspire employees by celebrating their creative achievements.\n    </li>\n    <li>\n      <strong>Create a safe environment:</strong> Rubin believes that creativity thrives in a safe and non-judgmental environment. Business leaders should create a safe space where employees feel comfortable expressing their ideas.\n    </li>\n    <li>\n      <strong>Collaborate and share:</strong> Collaboration and sharing of ideas are essential for creativity. Business leaders can encourage teamwork and knowledge sharing within their organizations.\n    </li>\n    <li>\n      <strong>Lead by example:</strong> Leaders should model the behavior they want to see in their teams. If leaders demonstrate creativity, employees are more likely to follow suit.\n    </li>\n  </ol>\n</body>\n</html>\n",
-				"date_published": "2023-10-28T18:44:47+01:00",
+				"date_published": "2023-10-28T17:44:47+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/28/takeaways-from-the.html",
 				"tags": ["books","leadership","lifestyle","psychology"]
 			},
@@ -47,7 +56,7 @@
 				"title": "10 takeaways from ‘Man’s Search for Meaning’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Man's Search for Meaning Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n<p>Man's Search for Meaning is a book by Viktor E. Frankl that explores his experiences as a Holocaust survivor and a psychiatrist. The book delves into the importance of finding meaning in life, even in the most challenging circumstances. While not a traditional business book, it offers profound insights applicable to leadership and personal development.</p>\n  <h2>Takeaways for Business Leaders</h2>\n  <ul>\n    <li>\n      <strong>Find Purpose and Meaning:</strong> In the face of adversity, finding a sense of purpose and meaning can be a powerful driving force. Business leaders should seek meaning in their work and help employees find purpose in their roles.\n    </li>\n    <li>\n      <strong>Freedom of Attitude:</strong> Frankl emphasizes that even in the direst situations, individuals have the freedom to choose their attitude. Business leaders can adopt a positive attitude in the face of challenges, which can inspire their teams.\n    </li>\n    <li>\n      <strong>Resilience and Adaptability:</strong> Frankl's survival in concentration camps reflects resilience and adaptability. These qualities are crucial for leaders facing adversity in business.\n    </li>\n    <li>\n      <strong>Empathy and Compassion:</strong> Understanding the suffering of others in the Holocaust, Frankl underscores the importance of empathy and compassion. Business leaders can foster a compassionate workplace.\n    </li>\n    <li>\n      <strong>Set Goals:</strong> Frankl's concept of \"logotherapy\" involves setting future goals to find meaning. Leaders should encourage goal-setting for their teams.\n    </li>\n    <li>\n      <strong>Value Relationships:</strong> Relationships played a vital role in the survival of concentration camp prisoners. Business leaders should value and nurture positive relationships within their organizations.\n    </li>\n    <li>\n      <strong>Maintain Dignity:</strong> Frankl stresses the importance of maintaining one's dignity, even in adversity. Leaders can uphold their dignity while leading with integrity.\n    </li>\n    <li>\n      <strong>Embrace Adversity:</strong> Leaders can learn from Frankl's ability to find meaning in suffering, turning adversity into an opportunity for growth.\n    </li>\n    <li>\n      <strong>Mental Resilience:</strong> The book highlights the resilience of the human mind. Leaders can cultivate mental resilience in themselves and their teams.\n    </li>\n    <li>\n      <strong>Live with Intention:</strong> Frankl advocates living with a sense of intention. Business leaders can apply this principle by setting clear intentions for their leadership and organizational goals.\n    </li>\n  </ul>\n</body>\n</html>\n",
-				"date_published": "2023-10-28T18:40:12+01:00",
+				"date_published": "2023-10-28T17:40:12+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/28/takeaways-from-mans.html",
 				"tags": ["books","leadership","psychology"]
 			},
@@ -56,7 +65,7 @@
 				
 				"content_html": "<p>Useful <!-- raw HTML omitted -->mental model<!-- raw HTML omitted --> for business leaders on how people make decisions and draw conclusions. Inc’s helpful worked example</p>\n",
 				"content_text": "Useful <a href=\"https://www.mindtools.com/aipz4vt/the-ladder-of-inference\">mental model</a> for business leaders on how people make decisions and draw conclusions. Inc’s helpful worked example\n",
-				"date_published": "2023-10-27T13:15:49+01:00",
+				"date_published": "2023-10-27T12:15:49+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/27/useful-mental-model.html",
 				"tags": ["leadership","lifestyle","psychology"]
 			},
@@ -65,7 +74,7 @@
 				
 				"content_html": "<p><!-- raw HTML omitted -->Piece<!-- raw HTML omitted --> from the Google team on what AI can/can’t do when improve marketing for consumer brands</p>\n",
 				"content_text": "<a href=\"https://www.thinkwithgoogle.com/marketing-strategies/automation/what-ai-can-and-cant-do-for-marketers/\">Piece</a> from the Google team on what AI can/can’t do when improve marketing for consumer brands\n",
-				"date_published": "2023-10-24T16:34:47+01:00",
+				"date_published": "2023-10-24T15:34:47+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/24/piece-from-the.html",
 				"tags": ["digital","ai","consumer","marketing"]
 			},
@@ -74,7 +83,7 @@
 				
 				"content_html": "<p>Huge in China, now growing in India, surprised there isn’t more of it in Europe - <!-- raw HTML omitted -->live stream e-commerce<!-- raw HTML omitted --></p>\n",
 				"content_text": "Huge in China, now growing in India, surprised there isn’t more of it in Europe - <a href=\"https://restofworld.org/2023/amazon-live-commerce-india\">live stream e-commerce</a>\n",
-				"date_published": "2023-10-24T14:23:46+01:00",
+				"date_published": "2023-10-24T13:23:46+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/24/huge-in-china.html",
 				"tags": ["digital","ecomm","china","india"]
 			},
@@ -83,7 +92,7 @@
 				"title": "10 takeaways from ‘Thinking Fast and Slow’",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n<html>\n<body>\n <p>Thinking, Fast and Slow is a book by Daniel Kahneman that explores the two systems of thinking that we all use: System 1, which is fast, intuitive, and emotional, and System 2, which is slow, deliberate, and rational. The book provides insights into how these two systems work and how they can lead us to make both good and bad decisions.</p>\n  <h2>Takeaways for Business Leaders</h2>\n  <ul>\n    <li>\n      <strong>Be aware of your cognitive biases.</strong> Cognitive biases are mental shortcuts that we use to make decisions quickly and efficiently. However, they can also lead us to make inaccurate judgments. By being aware of our cognitive biases, we can reduce their impact on our decisions.\n    </li>\n    <li>\n      <strong>Use data to make decisions.</strong> System 1 is prone to making decisions based on emotions and gut feelings. However, System 2 is better at making decisions based on data and evidence. Whenever possible, use data to inform your decisions.\n    </li>\n    <li>\n      <strong>Don't be afraid to admit you're wrong.</strong> System 1 is confident in its judgments, even when it's wrong. However, System 2 is better at admitting when it's wrong and changing its mind. Be open to feedback and be willing to change your mind when presented with new information.\n    </li>\n    <li>\n      <strong>Encourage your team to think critically.</strong> Encourage your team to question the status quo and to think critically about the decisions they make. This will help to reduce the risk of making decisions based on cognitive biases.\n    </li>\n    <li>\n      <strong>Create a culture of experimentation.</strong> Don't be afraid to experiment with new ideas and approaches. This is the best way to learn and grow. Encourage your team to experiment and to share their findings.\n    </li>\n    <li>\n      <strong>Be patient.</strong> System 2 thinking takes time and effort. Don't expect to make perfect decisions all the time. Just do your best to be aware of your cognitive biases, to use data to inform your decisions, and to be open to feedback.\n    </li>\n  </ul>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T21:45:37+01:00",
+				"date_published": "2023-10-23T20:45:37+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/takeaways-from-thinking.html",
 				"tags": ["books","leadership","psychology"]
 			},
@@ -92,7 +101,7 @@
 				"title": "10 takeaways from ‘The Hard Thing About Hard Things’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "\n<html>\n<head>\n    <title>Summary and Specific Takeaways: The Hard Thing About Hard Things</title>\n</head>\n<!DOCTYPE html>\n<html>\n<body>\n  <p>The Hard Thing About Hard Things is a book by Ben Horowitz that shares his insights and lessons learned from his experience as a founder and CEO of several successful technology companies. The book covers a wide range of topics, including building a company culture, hiring and managing employees, and making difficult decisions.</p>\n\n  <h2>Takeaways for Business Leaders</h2>\n  <ul>\n    <li>\n      <strong>Hire the right people.</strong> The most important thing you can do for your company is hire the right people. When you hire the right people, you can delegate to them and focus on the things that only you can do.\n    </li>\n    <li>\n      <strong>Set clear goals and expectations.</strong> Make sure everyone in the company knows what the goals are and what is expected of them. This will help to keep everyone focused and motivated.\n    </li>\n    <li>\n      <strong>Communicate regularly.</strong> It is important to communicate regularly with your team, both individually and as a group. This will help to build trust and rapport, and it will also help to ensure that everyone is on the same page.\n    </li>\n    <li>\n      <strong>Be honest and transparent.</strong> Be honest and transparent with your team, even when things are tough. This will help to build trust and credibility.\n    </li>\n    <li>\n      <strong>Make decisions quickly and decisively.</strong> Don't be afraid to make decisions, even if you don't have all the information. It is better to make a decision than to do nothing.\n    </li>\n    <li>\n      <strong>Don't be afraid to fail.</strong> Failure is a part of life. It is important to learn from your failures and keep moving forward.\n    </li>\n    <li>\n      <strong>Build a strong culture.</strong> A strong company culture will help to attract and retain top talent, and it will also help to create a positive and productive work environment.\n    </li>\n    <li>\n      <strong>Focus on your customers.</strong> Never lose sight of your customers and their needs. Everything you do should be focused on making your customers happy.\n    </li>\n    <li>\n      <strong>Be patient.</strong> Building a successful business takes time and effort. Don't expect to become an overnight success.\n    </li>\n    <li>\n      <strong>Have fun.</strong> Enjoy the journey! Building a company is a challenging but rewarding experience.\n    </li>\n  </ul>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T21:34:31+01:00",
+				"date_published": "2023-10-23T20:34:31+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/143431.html",
 				"tags": ["digital","product","startups","books","leadership"]
 			},
@@ -101,7 +110,7 @@
 				"title": "10 takeaways from ‘Tools of Titans’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Tools of Titans Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n  <p>Tools of Titans is a book by Tim Ferriss that interviews high performers from all walks of life, including athletes, entrepreneurs, and investors. The book is full of practical advice and tactics that can help you improve your performance in all areas of your life.</p>\n\n  <h2>Takeaways for Business Leaders</h2>\n  <ul>\n    <li>\n      <strong>Focus on your strengths and delegate your weaknesses.</strong> Don't try to be good at everything. Instead, focus on the things you're good at and delegate the rest to others. This will free up your time so that you can focus on the things that matter most to your business.\n    </li>\n    <li>\n      <strong>Set clear goals and track your progress.</strong> It's important to have clear goals in mind for your business. Once you have your goals, track your progress so that you can see how you're doing and make adjustments as needed.\n    </li>\n    <li>\n      <strong>Build a strong network of mentors and advisors.</strong> Surrounding yourself with successful people can help you learn from their experiences and achieve your own goals. Seek out mentors and advisors who can provide you with guidance and support.\n    </li>\n    <li>\n      <strong>Invest in yourself.</strong> The best investment you can make is in yourself. This means investing in your health, your education, and your personal development.\n    </li>\n    <li>\n      <strong>Don't be afraid to fail.</strong> Failure is a part of life. It's important to learn from your failures and keep moving forward. Don't let the fear of failure stop you from pursuing your dreams.\n    </li>\n    <li>\n      <strong>Take care of your health.</strong> Your health is your most important asset. Make sure to eat healthy, exercise regularly, and get enough sleep.\n    </li>\n    <li>\n      <strong>Delegate tasks.</strong> Don't try to do everything yourself. Delegate tasks to others so that you can focus on the most important things.\n    </li>\n    <li>\n      <strong>Outsource tasks.</strong> If you have the budget, outsource tasks to freelancers or contractors. This can free up your time so that you can focus on your business.\n    </li>\n    <li>\n      <strong>Automate tasks.</strong> If possible, automate tasks so that you don't have to do them manually. This can save you a lot of time and energy.\n    </li>\n    <li>\n      <strong>Take breaks.</strong> It's important to take breaks throughout the day to avoid burnout. Get up and move around, or take a few minutes to relax and clear your head.\n    </li>\n  </ul>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T21:28:58+01:00",
+				"date_published": "2023-10-23T20:28:58+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/takeaways-from-tools.html",
 				"tags": ["books","leadership","lifestyle"]
 			},
@@ -110,7 +119,7 @@
 				"title": "10 takeaways from ‘Tribe of Mentors’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Tribe of Mentors Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n  <p>Tribe of Mentors is a book by Tim Ferriss that compiles advice from over 130 high performers in a variety of fields, including business, sports, and the arts. The book is full of practical insights and actionable takeaways that can help you improve your performance in all areas of your life.</p>\n\n  <h2>Takeaways for Business Leaders</h2>\n  <ul>\n    <li>\n      <strong>Focus on your strengths and delegate your weaknesses.</strong>\n      Don't try to be good at everything. Instead, focus on the things you're best at and delegate the rest to others. This will free up your time so that you can focus on the things that will have the biggest impact on your business.\n    </li>\n    <li>\n      <strong>Set clear goals and track your progress.</strong>\n      It's important to have clear goals in mind for your business. Once you have your goals, track your progress so that you can see what's working and what's not. This will help you make adjustments as needed and stay on track to achieve your goals.\n    </li>\n    <li>\n      <strong>Build a strong network of mentors and advisors.</strong>\n      Surrounding yourself with successful people can help you learn from their experiences and avoid making the same mistakes they did. Seek out mentors and advisors who can provide you with guidance and support.\n    </li>\n    <li>\n      <strong>Invest in yourself.</strong>\n      The best investment you can make is in yourself. This means investing in your health, your education, and your personal development. The better you are, the better your business will be.\n    </li>\n    <li>\n      <strong>Don't be afraid to fail.</strong>\n      Failure is a part of life. Everyone fails at some point. The important thing is to learn from your failures and keep moving forward. Don't let the fear of failure stop you from pursuing your dreams.\n    </li>\n    <li>\n      <strong>Take care of your health.</strong>\n      Your health is your most important asset. Make sure to eat healthy, exercise regularly, and get enough sleep. When you're healthy, you're more productive and creative.\n    </li>\n    <li>\n      <strong>Delegate tasks.</strong>\n      Don't try to do everything yourself. Delegate tasks to others so that you can focus on your strengths and the critical aspects of your business.\n    </li>\n  </ul>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T21:24:45+01:00",
+				"date_published": "2023-10-23T20:24:45+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/takeaways-from-tribe.html",
 				"tags": ["books","leadership","lifestyle"]
 			},
@@ -119,7 +128,7 @@
 				"title": "10 takeaways from ‘The 4 Hour Workweek",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>The 4-Hour Workweek Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n  <p>The 4-Hour Workweek is a book by Tim Ferriss that teaches readers how to work less and live more. The book is full of practical advice and strategies that can help you automate your business, outsource your tasks, and design a lifestyle that gives you more freedom and flexibility.</p>\n  <h2>Takeaways for Business Leaders</h2>\n  <ul>\n    <li>\n      <strong>Focus on the 20% of activities that produce 80% of your results.</strong>\n      Most businesses focus on the wrong things. They spend time and energy on tasks that don't produce significant results. Instead, focus on the 20% of activities that produce 80% of your results. This will help you free up your time and energy to focus on the things that matter most.\n    </li>\n    <li>\n      <strong>Eliminate distractions and focus on one task at a time.</strong>\n      We live in a world of distractions. It's easy to get sidetracked and lose focus. But if you want to be productive, you need to eliminate distractions and focus on one task at a time.\n    </li>\n    <li>\n      <strong>Outsource tasks to virtual assistants and freelancers.</strong>\n      There are many tasks that can be outsourced to virtual assistants and freelancers. This can free up your time so that you can focus on the things that you're best at.\n    </li>\n    <li>\n      <strong>Automate as many tasks as possible.</strong>\n      There are many tools and services that can help you automate tasks. This can save you a lot of time and energy.\n    </li>\n    <li>\n      <strong>Take mini-retirements throughout the year.</strong>\n      It's important to take breaks and recharge. Don't wait until you're burned out to take a vacation. Take mini-retirements throughout the year to relax, travel, and pursue your hobbies.\n    </li>\n    <li>\n      <strong>Design a lifestyle that gives you more freedom and flexibility.</strong>\n      The 4-Hour Workweek is not just about working less. It's also about designing a lifestyle that gives you more freedom and flexibility. Think about what you want your life to look like and then start designing it.\n    </li>\n  </ul>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T21:19:53+01:00",
+				"date_published": "2023-10-23T20:19:53+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/141953.html",
 				"tags": ["startups","books","lifestyle"]
 			},
@@ -128,7 +137,7 @@
 				"title": "10 takeaways from ‘How to Win Friends and Influence People’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>How to Win Friends and Influence People Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n  <p>How to Win Friends and Influence People is a book by Dale Carnegie that teaches readers how to improve their interpersonal skills and relationships. The book is full of practical advice and strategies that can help you become more likable, persuasive, and influential.</p>\n  <h2>Takeaways for Business Leaders</h2>\n  <ul>\n    <li>\n      <strong>Be genuinely interested in other people.</strong>\n      People can tell when you're not genuinely interested in them. So make an effort to learn about other people and their interests. Ask questions and listen carefully to the answers.\n    </li>\n    <li>\n      <strong>Smile.</strong>\n      A smile is one of the simplest and most effective ways to make a good impression. Smiling makes you look more approachable and friendly.\n    </li>\n    <li>\n      <strong>Remember people's names.</strong>\n      Remembering someone's name shows that you're interested in them and that you pay attention. It also makes them feel more important and valued.\n    </li>\n    <li>\n      <strong>Be a good listener.</strong>\n      People appreciate it when you take the time to listen to them. So make eye contact, nod your head, and ask clarifying questions.\n    </li>\n    <li>\n      <strong>Talk in terms of the other person's interests.</strong>\n      When you're talking to someone, try to find out what their interests are and then talk about those things. This will make them more engaged and interested in talking to you.\n    </li>\n    <li>\n      <strong>Make the other person feel important.</strong>\n      Everyone wants to feel important. So make an effort to make the other person feel good about themselves. Compliment them, give them positive reinforcement, and show that you value their opinion.\n    </li>\n    <li>\n      <strong>Avoid arguments.</strong>\n      Arguments are rarely productive. So if you find yourself in an argument, try to de-escalate the situation and find common ground.\n    </li>\n    <li>\n      <strong>Admit when you're wrong.</strong>\n      Everyone makes mistakes. So if you're wrong, be willing to admit it. This shows that you're humble and honest.\n    </li>\n    <li>\n      <strong>Keep your promises.</strong>\n      Keeping your promises builds trust and credibility. If you say you'll do something, follow through.\n    </li>\n    <li>\n      <strong>Talk about your own mistakes before criticizing others.</strong>\n      When you need to address someone's mistake, start by discussing your own past mistakes. This makes your feedback more relatable and less confrontational.\n    </li>\n  </ul>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T21:12:12+01:00",
+				"date_published": "2023-10-23T20:12:12+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/takeaways-from-how.html",
 				"tags": ["books","leadership","psychology"]
 			},
@@ -137,7 +146,7 @@
 				"title": "10 takeaways from ‘Moneyball’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Moneyball Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n  <p>Moneyball is a book by Michael Lewis that tells the story of how the Oakland Athletics baseball team used data analysis to build a winning team on a limited budget. The book is full of insights and lessons that can be applied to business.</p>\n  <h2>Takeaways for Business Leaders</h2>\n  <ul>\n    <li>\n      <strong>Challenge the status quo.</strong>\n      The Oakland Athletics challenged the conventional wisdom in baseball by using data analysis to identify undervalued players. Business leaders can do the same by challenging the status quo in their own industries.\n    </li>\n    <li>\n      <strong>Focus on what matters.</strong>\n      The Oakland Athletics focused on the metrics that mattered most to winning baseball games, such as on-base percentage and slugging percentage. Business leaders can do the same by focusing on the metrics that matter most to their business.\n    </li>\n    <li>\n      <strong>Use data to make decisions.</strong>\n      The Oakland Athletics used data to make informed decisions about their players and their team strategy. Business leaders can do the same by using data to make decisions about their products, services, and marketing campaigns.\n    </li>\n    <li>\n      <strong>Hire the right people.</strong>\n      The Oakland Athletics hired people who were able to think differently and challenge the status quo. Business leaders can do the same by hiring people who are creative and innovative.\n    </li>\n    <li>\n      <strong>Be patient.</strong>\n      It took the Oakland Athletics several years to build a winning team using their new approach. Business leaders need to be patient as they implement new strategies in their own businesses.\n    </li>\n  </ul>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T21:08:47+01:00",
+				"date_published": "2023-10-23T20:08:47+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/takeaways-from-moneyball.html",
 				"tags": ["digital","books","leadership","data"]
 			},
@@ -146,7 +155,7 @@
 				"title": "10 takeaways from ‘The Lean Startup’",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<!DOCTYPE html>\n<html>\n<head>\n  <title>The Lean Startup Summary and Takeaways for Business Leaders</title>\n</head>\n<body>\n  <p>The Lean Startup is a book by Eric Ries that introduces a new approach to entrepreneurship and business development. Ries argues that traditional startups waste too much time and money on building products that nobody wants. Instead, he advocates for a \"lean\" approach, where startups focus on building the smallest possible product that they can test with customers and learn from.</p>\n  <h2>Takeaways for Business Leaders</h2>\n  <ul>\n    <li>\n      <strong>Build a minimum viable product (MVP).</strong>\n      An MVP is the smallest possible product that you can build that still delivers value to customers. Don't waste time and money on building a fully featured product that nobody wants. Instead, build an MVP and test it with customers to learn what they like and don't like.\n    </li>\n    <li>\n      <strong>Get feedback from customers early and often.</strong>\n      Once you have an MVP, get it into the hands of customers as soon as possible and start getting feedback. This feedback will help you improve your product and make it more likely to succeed.\n    </li>\n    <li>\n      <strong>Pivot when necessary.</strong>\n      Don't be afraid to pivot, or change direction, if your MVP isn't getting traction. The goal is to learn from your customers and build a product that they want. If your MVP isn't working, try something different.\n    </li>\n    <li>\n      <strong>Measure everything.</strong>\n      In order to learn from your customers and improve your product, you need to measure everything. This includes things like website traffic, customer engagement, and sales data. By measuring everything, you can track your progress and make informed decisions about how to improve your business.\n    </li>\n    <li>\n      <strong>Create a build-measure-learn feedback loop.</strong>\n      The build-measure-learn feedback loop is a central concept in The Lean Startup. It's a process of building a product, measuring its performance, and learning from the results. This feedback loop allows you to quickly and efficiently improve your product and increase your chances of success\n  </ul>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T16:57:44+01:00",
+				"date_published": "2023-10-23T15:57:44+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/095744.html",
 				"tags": ["digital","product","startups","books","leadership"]
 			},
@@ -155,7 +164,7 @@
 				"title": "10 takeaways from ‘The 22 Immutable Laws of Marketing’",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<html>\n<head>\n    <title>Summary and Takeaways: The 22 Immutable Laws of Marketing</title>\n</head>\n<body>\n    <h1><strong>Summary: The 22 Immutable Laws of Marketing</strong></h1>\n    <p><em>The 22 Immutable Laws of Marketing</em> by Al Ries and Jack Trout provides insights into the fundamental principles of marketing. The book offers guidance on how to position products or services effectively in the market and gain a competitive advantage.</p>\n    <h2><strong>Takeaways for Business Leaders:</strong></h2>\n    <ol>\n        <li><strong>Law of Leadership:</strong> Strive to be the first in the consumer's mind for your product or service category.</li>\n        <li><strong>Law of the Category:</strong> It's better to be first in a new category than to compete in an existing one.</li>\n        <li><strong>Law of the Mind:</strong> Your marketing efforts should focus on positioning your brand in the customer's mind based on specific attributes or benefits.</li>\n        <li><strong>Law of Perception:</strong> It's not enough to be the best; you must be perceived as the best in the consumer's mind.</li>\n        <li><strong>Law of Focus:</strong> Narrow your focus to a specific target audience and product category to become a leader in that niche.</li>\n        <li><strong>Law of Exclusivity:</strong> Strive for exclusivity in a category to differentiate your brand from competitors.</li>\n        <li><strong>Law of the Ladder:</strong> Recognize that consumers see brands on a product or service category \"ladder\" and aim to position your brand on the top rung.</li>\n        <li><strong>Law of Duality:</strong> In the long run, there's room for only two strong competitors in any given category.</li>\n        <li><strong>Law of the Opposite:</strong> If you're not the leader, promote your differences and the opposite of the leader's qualities.</li>\n        <li><strong>Law of Division:</strong> When a market is divided, try to be the first to establish a new category.</li>\n        <li><strong>Law of Perspective:</strong> Marketing is more about perception and not necessarily about facts and features.</li>\n        <li><strong>Law of Line Extension:</strong> Extending your brand too far can dilute its strength and result in a weakened position.</li>\n        <li><strong>Law of Sacrifice:</strong> To excel in one area, you must give up something in another area.</li>\n        <li><strong>Law of Attributes:</strong> Focus on communicating a clear and consistent set of attributes to differentiate your brand.</li>\n        <li><strong>Law of Candor:</strong> Be honest about your brand's strengths and weaknesses to build credibility and trust.</li>\n        <li><strong>Law of Singularity:</strong> Aim for singularity and a unique position in the consumer's mind to stand out.</li>\n        <li><strong>Law of Unpredictability:</strong> The success of marketing strategies can be unpredictable, so be prepared to adapt as needed.</li>\n        <li><strong>Law of Success:</strong> Success often leads to arrogance, which can harm your brand's positioning. Stay humble and adaptable.</li>\n        <li><strong>Law of Failure:</strong> Recognize and learn from your marketing failures to make better decisions in the future.</li>\n        <li><strong>Law of Hype:</strong> Avoid the temptation to overhype your product, as it can lead to disappointment and damage your brand's reputation.</li>\n        <li><strong>Law of Acceleration:</strong> Successful marketing can accelerate your brand's dominance in the market.</li>\n        <li><strong>Law of Resources:</strong> Allocate your resources wisely, as overcommitting to marketing can strain your brand and its effectiveness.</li>\n    </ol>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T16:48:59+01:00",
+				"date_published": "2023-10-23T15:48:59+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/094859.html",
 				"tags": ["digital","product","books","leadership"]
 			},
@@ -164,7 +173,7 @@
 				"title": "10 takeaways from ‘Wisdom of the Crowds’",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n<html>\n<head>\n    <title>Summary and Takeaways: The Wisdom of Crowds</title>\n</head>\n<body>\n    <h1><strong>Summary: The Wisdom of Crowds</strong></h1>\n    <p><em>The Wisdom of Crowds</em> by James Surowiecki explores the idea that collective intelligence often surpasses that of an individual. The book examines various examples and principles of how groups can make better decisions than experts in certain scenarios.</p>\n    <h2><strong>Takeaways for Business Leaders:</strong></h2>\n    <ol>\n        <li><strong>Collective Intelligence:</strong> Recognize the potential of collective wisdom in problem-solving and decision-making within your organization.</li>\n        <li><strong>Diversity of Perspectives:</strong> Encourage diverse viewpoints and backgrounds among your team members to tap into a broader range of ideas and insights.</li>\n        <li><strong>Decentralized Decision-Making:</strong> Consider decentralized decision-making structures to empower teams to make informed choices based on their expertise.</li>\n        <li><strong>Open Communication:</strong> Foster open dialogue and information sharing among employees to tap into their collective knowledge and experiences.</li>\n        <li><strong>Market Mechanisms:</strong> Explore the use of market-based approaches for predictions and decision-making, such as prediction markets.</li>\n        <li><strong>Crowdsourcing Innovation:</strong> Leverage the collective creativity and problem-solving abilities of your customers or the general public for innovation and idea generation.</li>\n        <li><strong>Data-Driven Decision-Making:</strong> Incorporate data and analytics to harness the collective intelligence of your organization and external sources for more informed decisions.</li>\n        <li><strong>Overcoming Biases:</strong> Be aware of and address potential biases in collective decision-making processes to ensure more accurate results.</li>\n        <li><strong>Trust and Collaboration:</strong> Build trust and encourage collaboration among team members, as these are essential for effective collective decision-making.</li>\n        <li><strong>Continuous Learning:</strong> Embrace a culture of continuous learning and adaptation, allowing your organization to benefit from collective insights over time.</li>\n    </ol>\n</body>\n",
-				"date_published": "2023-10-23T16:43:43+01:00",
+				"date_published": "2023-10-23T15:43:43+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/takeaways-from-wisdom.html",
 				"tags": ["books","leadership"]
 			},
@@ -173,7 +182,7 @@
 				"title": "10 takeaways from ‘In the Plex’",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<html>\n<head>\n    <title>Summary and Takeaways: In the Plex</title>\n</head>\n<body>\n    <h1><strong>Summary: In the Plex</strong></h1>\n    <p><em>In the Plex: How Google Thinks, Works, and Shapes Our Lives</em> by Steven Levy provides an in-depth look into Google, one of the most influential technology companies globally. The book explores Google's approach to innovation, commitment to organizing information, and its impact on the internet and society.</p>\n    <h2><strong>Takeaways for Business Leaders:</strong></h2>\n    <ol>\n        <li><strong>Culture of Innovation:</strong> Foster an innovative culture that encourages creativity and risk-taking.</li>\n        <li><strong>Data-Driven Decision-Making:</strong> Prioritize data and analytics for informed decision-making in all aspects of your business.</li>\n        <li><strong>Mission-Driven Focus:</strong> Define a clear mission that guides your strategies and product development.</li>\n        <li><strong>Engineering Excellence:</strong> Attract and retain top engineering talent to drive innovation and technical expertise.</li>\n        <li><strong>User-Centric Approach:</strong> Prioritize the user experience and customer satisfaction in product development.</li>\n        <li><strong>Diversification and Growth:</strong> Expand your product offerings while staying aligned with your core mission and values.</li>\n        <li><strong>Global Impact:</strong> Recognize your company's potential to influence industries, politics, and society on a global scale.</li>\n        <li><strong>Corporate Responsibility:</strong> Address environmental, ethical, and social concerns as part of your corporate responsibility.</li>\n        <li><strong>Monetization Strategies:</strong> Develop revenue streams aligned with your core offerings, such as advertising, while maintaining user trust.</li>\n        <li><strong>Challenges and Scrutiny:</strong> Prepare for challenges related to privacy, competition, and government regulation as your company grows.</li>\n    </ol>\n</body>\n",
-				"date_published": "2023-10-23T16:40:27+01:00",
+				"date_published": "2023-10-23T15:40:27+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/takeaways-from-in.html",
 				"tags": ["digital","product","agile","books","leadership"]
 			},
@@ -182,7 +191,7 @@
 				"title": "10 takeaways from ‘ Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success’",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<html>\n<head>\n    <title>Summary and Takeaways: Outsiders</title>\n</head>\n<body>\n    <p><em>Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success</em> by William Thorndike profiles CEOs who achieved remarkable success through unconventional strategies. Despite their differences, they shared key principles of capital allocation and value creation.</p>\n    <h2><strong>Takeaways for Business Leaders:</strong></h2>\n    <ol>\n        <li><strong>Capital Allocation Mastery:</strong> Excel in capital allocation for enduring value creation.</li>\n        <li><strong>Value Over All:</strong> Prioritize strategies that create long-term value, avoiding short-term financial engineering.</li>\n        <li><strong>Independence of Thought:</strong> Be willing to make unconventional decisions in line with long-term interests.</li>\n        <li><strong>Long-Term Vision:</strong> Maintain a strong vision and practice patience for sustainable growth.</li>\n        <li><strong>Decentralized Management:</strong> Consider autonomy for subsidiaries when it makes sense.</li>\n <li><strong>Meticulous MandA:</strong> Adopt an analytical, value-driven approach to mergers and acquisitions</li>\n<li><strong>Efficient Capital Allocation:</strong> Exercise caution with debt and ensure efficient capital use.</li>\n        <li><strong>Frugality in Practices:</strong> Instill financial discipline and optimize resource utilization.</li>\n        <li><strong>Talent Management:</strong> Prioritize building a high-quality, motivated management team.</li>\n        <li><strong>Leverage Core Competencies:</strong> Focus on your company's strengths and exercise discipline in expansion.</li>\n    </ol>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T16:06:44+01:00",
+				"date_published": "2023-10-23T15:06:44+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/takeaways-from-outsiders.html",
 				"tags": ["books","leadership"]
 			},
@@ -191,7 +200,7 @@
 				"title": "10 takeaways from ‘The Tipping Point’",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<html>\n<head>\n    <title>Summary and Takeaways: The Tipping Point for Business Leaders</title>\n</head>\n<body>\n    <p><em>The Tipping Point</em> by Malcolm Gladwell explores the phenomenon of how small actions or events can lead to significant changes or trends in society. This concept is highly relevant for business leaders in understanding the dynamics of influence and success.</p>\n    <h2><strong>Takeaways for Business Leaders:</strong></h2>\n    <ol>\n        <li><strong>Recognize the Concept:</strong> Understand the concept of tipping points and how it applies to your business strategies.</li>\n        <li><strong>Small Efforts, Big Impact:</strong> Small, well-targeted efforts can have a profound impact on your organization or industry.</li>\n        <li><strong>Engage Influential Connectors:</strong> Identify and engage with influential connectors to effectively spread your message or product.</li>\n        <li><strong>Leverage Information Experts:</strong> Utilize information experts (Mavens) who can influence decision-making and adoption of your products or ideas.</li>\n        <li><strong>Equip Your Team:</strong> Equip your team with persuasive skills (Salesmen) to convince stakeholders and customers of your offerings' value.</li>\n        <li><strong>Create Sticky Messages:</strong> Develop sticky products or messages that resonate with your target audience, making them memorable and engaging.</li>\n        <li><strong>Consider Context:</strong> Be aware of the impact of the environment and context in which your products or ideas are introduced, as these factors significantly influence their adoption.</li>\n        <li><strong>Understand Social Networks:</strong> Recognize the influence of social networks and communities on the success of your business strategies.</li>\n        <li><strong>Design Innovative Campaigns:</strong> Design innovative marketing campaigns that align with the principles of tipping points, creating a cascade effect of success.</li>\n        <li><strong>Timing is Crucial:</strong> Understand that sometimes patience and persistence are required to achieve tipping points.</li>\n    </ol>\n</body>\n</html>\n",
-				"date_published": "2023-10-23T15:47:18+01:00",
+				"date_published": "2023-10-23T14:47:18+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/23/takeaways-from-the.html",
 				"tags": ["diversity","books","leadership"]
 			},
@@ -200,7 +209,7 @@
 				
 				"content_html": "<p>Another good RoW article about <!-- raw HTML omitted -->bias<!-- raw HTML omitted --> in visual AI tools</p>\n",
 				"content_text": "Another good RoW article about <a href=\"https://restofworld.org/2023/ai-image-stereotypes\">bias</a> in visual AI tools\n",
-				"date_published": "2023-10-12T19:19:42+01:00",
+				"date_published": "2023-10-12T18:19:42+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/12/another-good-row.html",
 				"tags": ["ai","global"]
 			},
@@ -209,7 +218,7 @@
 				
 				"content_html": "<p>US Gov report on how they feel Chinese state propaganda is shaping <!-- raw HTML omitted -->global information sharing<!-- raw HTML omitted --></p>\n",
 				"content_text": "US Gov report on how they feel Chinese state propaganda is shaping <a href=\"https://www.state.gov/gec-special-report-how-the-peoples-republic-of-china-seeks-to-reshape-the-global-information-environment/\">global information sharing</a>\n",
-				"date_published": "2023-10-12T19:14:44+01:00",
+				"date_published": "2023-10-12T18:14:44+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/12/us-gov-report.html",
 				"tags": ["politics","china","us"]
 			},
@@ -218,7 +227,7 @@
 				
 				"content_html": "<p>Blog post on how <!-- raw HTML omitted -->copyright and competitions laws<!-- raw HTML omitted --> in the EU can be applied to GenAI</p>\n",
 				"content_text": "Blog post on how <a href=\"https://theplatformlaw.blog/2023/06/14/generative-ai-and-the-media-sector-preliminary-thoughts-on-a-legal-and-policy-agenda/\">copyright and competitions laws</a> in the EU can be applied to GenAI\n",
-				"date_published": "2023-10-12T19:10:20+01:00",
+				"date_published": "2023-10-12T18:10:20+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/12/blog-post-on.html",
 				"tags": ["ai"]
 			},
@@ -227,7 +236,7 @@
 				
 				"content_html": "<p>40 products <!-- raw HTML omitted -->not built in the West<!-- raw HTML omitted --> that are changing tech</p>\n",
 				"content_text": "40 products <a href=\"https://restofworld.org/2023/rest-vs-west\">not built in the West</a> that are changing tech\n",
-				"date_published": "2023-10-05T16:09:52+01:00",
+				"date_published": "2023-10-05T15:09:52+00:00",
 				"url": "https://blog.offordwoolley.com/2023/10/05/products-not-built.html",
 				"tags": ["digital","product","global"]
 			},
@@ -236,7 +245,7 @@
 				
 				"content_html": "<p><!-- raw HTML omitted -->Guide<!-- raw HTML omitted --> for teachers on how ChatGPT can/can’t be used</p>\n",
 				"content_text": "<a href=\"https://openai.com/blog/teaching-with-ai\">Guide</a> for teachers on how ChatGPT can/can’t be used\n\n",
-				"date_published": "2023-09-08T07:43:49+01:00",
+				"date_published": "2023-09-08T06:43:49+00:00",
 				"url": "https://blog.offordwoolley.com/2023/09/08/guide-for-teachers.html",
 				"tags": ["chatgpt","ai"]
 			},
@@ -245,7 +254,7 @@
 				
 				"content_html": "<p>2023 Ofcom report on news consumption in the UK -  <a href=\"https://www.ofcom.org.uk/__data/assets/pdf_file/0024/264651/news-consumption-2023.pdf\">https://www.ofcom.org.uk/__data/assets/pdf_file/0024/264651/news-consumption-2023.pdf</a></p>\n",
 				"content_text": "2023 Ofcom report on news consumption in the UK -  https://www.ofcom.org.uk/__data/assets/pdf_file/0024/264651/news-consumption-2023.pdf\n",
-				"date_published": "2023-07-26T19:12:57+01:00",
+				"date_published": "2023-07-26T18:12:57+00:00",
 				"url": "https://blog.offordwoolley.com/2023/07/26/ofcom-report-on.html",
 				"tags": ["digital","uk"]
 			},
@@ -254,7 +263,7 @@
 				
 				"content_html": "<p>Research paper on how the Great Firewall of China is blocking encrypted traffic - <a href=\"https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf\">gfw.report/publicati&hellip;</a></p>\n",
 				"content_text": "Research paper on how the Great Firewall of China is blocking encrypted traffic - [gfw.report/publicati...](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)\n",
-				"date_published": "2023-07-26T19:10:39+01:00",
+				"date_published": "2023-07-26T18:10:39+00:00",
 				"url": "https://blog.offordwoolley.com/2023/07/26/research-paper-on.html",
 				"tags": ["security","encryption","china"]
 			},
@@ -263,7 +272,7 @@
 				
 				"content_html": "<p>Some fun Stable Diffusion based tools - <a href=\"https://clipdrop.co/tools\">clipdrop.co/tools</a></p>\n",
 				"content_text": "Some fun Stable Diffusion based tools - [clipdrop.co/tools](https://clipdrop.co/tools)\n",
-				"date_published": "2023-07-16T11:30:55+01:00",
+				"date_published": "2023-07-16T10:30:55+00:00",
 				"url": "https://blog.offordwoolley.com/2023/07/16/some-fun-stable.html",
 				"tags": ["ai","stablediffusion"]
 			},
@@ -272,7 +281,7 @@
 				
 				"content_html": "<p>The Russell Group principles on AI in education - <a href=\"https://russellgroup.ac.uk/news/new-principles-on-use-of-ai-in-education/\">russellgroup.ac.uk/news/new-&hellip;</a></p>\n",
 				"content_text": "The Russell Group principles on AI in education - [russellgroup.ac.uk/news/new-...](https://russellgroup.ac.uk/news/new-principles-on-use-of-ai-in-education/)\n",
-				"date_published": "2023-07-11T20:19:42+01:00",
+				"date_published": "2023-07-11T19:19:42+00:00",
 				"url": "https://blog.offordwoolley.com/2023/07/11/the-russell-group.html",
 				"tags": ["ai","education"]
 			},
@@ -281,7 +290,7 @@
 				
 				"content_html": "<p>Why Rest of World is a great site - article on how Global South countries are being failed by social media content moderation tools - <a href=\"https://restofworld.org/2023/ai-content-moderation-hate-speech\">restofworld.org/2023/ai-c&hellip;</a></p>\n",
 				"content_text": "Why Rest of World is a great site - article on how Global South countries are being failed by social media content moderation tools - [restofworld.org/2023/ai-c...](https://restofworld.org/2023/ai-content-moderation-hate-speech)\n",
-				"date_published": "2023-07-04T23:11:22+01:00",
+				"date_published": "2023-07-04T22:11:22+00:00",
 				"url": "https://blog.offordwoolley.com/2023/07/04/why-rest-of.html",
 				"tags": ["ai","social","global"]
 			},
@@ -290,7 +299,7 @@
 				
 				"content_html": "<p>List of most visited AI sites by monthly traffic - <a href=\"https://www.ilib.com/ai-websites\">www.ilib.com/ai-websit&hellip;</a></p>\n",
 				"content_text": "List of most visited AI sites by monthly traffic - [www.ilib.com/ai-websit...](https://www.ilib.com/ai-websites)\n",
-				"date_published": "2023-05-29T08:47:11+01:00",
+				"date_published": "2023-05-29T07:47:11+00:00",
 				"url": "https://blog.offordwoolley.com/2023/05/29/list-of-most.html",
 				"tags": ["ai","llm"]
 			},
@@ -299,7 +308,7 @@
 				
 				"content_html": "<p>Useful article on compute costs of training LLM’s - <a href=\"https://a16z.com/2023/04/27/navigating-the-high-cost-of-ai-compute/\">a16z.com/2023/04/2&hellip;</a></p>\n",
 				"content_text": "Useful article on compute costs of training LLM’s - [a16z.com/2023/04/2...](https://a16z.com/2023/04/27/navigating-the-high-cost-of-ai-compute/)\n",
-				"date_published": "2023-05-03T21:20:48+01:00",
+				"date_published": "2023-05-03T20:20:48+00:00",
 				"url": "https://blog.offordwoolley.com/2023/05/03/useful-article-on.html",
 				"tags": ["ai","llm"]
 			},
@@ -308,7 +317,7 @@
 				
 				"content_html": "<p>The modern SQL Injection attack - Prompt Injection - <a href=\"https://simonwillison.net/2023/Apr/14/worst-that-can-happen/\">simonwillison.net/2023/Apr/&hellip;</a></p>\n",
 				"content_text": "The modern SQL Injection attack - Prompt Injection - [simonwillison.net/2023/Apr/...](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)\n",
-				"date_published": "2023-04-25T18:23:17+01:00",
+				"date_published": "2023-04-25T17:23:17+00:00",
 				"url": "https://blog.offordwoolley.com/2023/04/25/the-modern-sql.html",
 				"tags": ["ai","chatbot"]
 			},
@@ -317,7 +326,7 @@
 				
 				"content_html": "<p>Summary of some of the datasets used by popular LLM - <a href=\"https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/\">www.washingtonpost.com/technolog&hellip;</a></p>\n",
 				"content_text": "Summary of some of the datasets used by popular LLM - [www.washingtonpost.com/technolog...](https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/)\n",
-				"date_published": "2023-04-25T18:17:33+01:00",
+				"date_published": "2023-04-25T17:17:33+00:00",
 				"url": "https://blog.offordwoolley.com/2023/04/25/summary-of-some.html",
 				"tags": ["ai","chatbot"]
 			},
@@ -326,7 +335,7 @@
 				
 				"content_html": "<p>State of Crypto in 2023 - <a href=\"https://a16zcrypto.com/content/article/state-of-crypto-report-2023/\">a16zcrypto.com/content/a&hellip;</a></p>\n",
 				"content_text": "State of Crypto in 2023 - [a16zcrypto.com/content/a...](https://a16zcrypto.com/content/article/state-of-crypto-report-2023/)\n",
-				"date_published": "2023-04-18T18:34:40+01:00",
+				"date_published": "2023-04-18T17:34:40+00:00",
 				"url": "https://blog.offordwoolley.com/2023/04/18/state-of-crypto.html",
 				"tags": ["crypto"]
 			},
@@ -335,7 +344,7 @@
 				
 				"content_html": "<p>Article about India exporting its home grown digital payments system but some good content on open source digital identity platforms that help countries develop independence from big western companies - <a href=\"https://restofworld.org/2023/india-upi-digital-payments-diplomacy\">restofworld.org/2023/indi&hellip;</a></p>\n",
 				"content_text": "Article about India exporting its home grown digital payments system but some good content on open source digital identity platforms that help countries develop independence from big western companies - [restofworld.org/2023/indi...](https://restofworld.org/2023/india-upi-digital-payments-diplomacy)\n",
-				"date_published": "2023-04-12T08:24:41+01:00",
+				"date_published": "2023-04-12T07:24:41+00:00",
 				"url": "https://blog.offordwoolley.com/2023/04/12/article-about-india.html",
 				"tags": ["tech","identity","global"]
 			},
@@ -344,7 +353,7 @@
 				
 				"content_html": "<p>Some great pics of how tech is used around the World - <a href=\"https://restofworld.org/2023/winners-2023-photography-contest\">restofworld.org/2023/winn&hellip;</a></p>\n",
 				"content_text": "Some great pics of how tech is used around the World - [restofworld.org/2023/winn...](https://restofworld.org/2023/winners-2023-photography-contest)\n",
-				"date_published": "2023-04-12T08:17:58+01:00",
+				"date_published": "2023-04-12T07:17:58+00:00",
 				"url": "https://blog.offordwoolley.com/2023/04/12/some-great-pics.html",
 				"tags": ["tech"]
 			},
@@ -353,7 +362,7 @@
 				
 				"content_html": "<p>UK International Tech Strategy - <a href=\"https://www.gov.uk/government/publications/uk-international-technology-strategy/the-uks-international-technology-strategy\">www.gov.uk/governmen&hellip;</a></p>\n",
 				"content_text": "UK International Tech Strategy - [www.gov.uk/governmen...](https://www.gov.uk/government/publications/uk-international-technology-strategy/the-uks-international-technology-strategy)\n",
-				"date_published": "2023-03-28T18:37:00+01:00",
+				"date_published": "2023-03-28T17:37:00+00:00",
 				"url": "https://blog.offordwoolley.com/2023/03/28/uk-international-tech.html",
 				"tags": ["tech","HMG"]
 			},
@@ -362,7 +371,7 @@
 				
 				"content_html": "<p>Snap white-labelling it’s AR tools for other ecom partners - <a href=\"https://www.modernretail.co/technology/snap-rolls-out-augmented-reality-tools-for-fashion-retailers-in-latest-commerce-push/\">www.modernretail.co/technolog&hellip;</a></p>\n",
 				"content_text": "Snap white-labelling it’s AR tools for other ecom partners - [www.modernretail.co/technolog...](https://www.modernretail.co/technology/snap-rolls-out-augmented-reality-tools-for-fashion-retailers-in-latest-commerce-push/)\n",
-				"date_published": "2023-03-28T18:28:19+01:00",
+				"date_published": "2023-03-28T17:28:19+00:00",
 				"url": "https://blog.offordwoolley.com/2023/03/28/snap-whitelabelling-its.html",
 				"tags": ["ecomm","snap","ar"]
 			},
@@ -371,7 +380,7 @@
 				
 				"content_html": "<p>UK Gov report on Digital Transformation - <a href=\"https://www.nao.org.uk/reports/digital-transformation-in-government-addressing-the-barriers/\">www.nao.org.uk/reports/d&hellip;</a></p>\n",
 				"content_text": "UK Gov report on Digital Transformation - [www.nao.org.uk/reports/d...](https://www.nao.org.uk/reports/digital-transformation-in-government-addressing-the-barriers/)\n",
-				"date_published": "2023-03-21T19:30:15+01:00",
+				"date_published": "2023-03-21T18:30:15+00:00",
 				"url": "https://blog.offordwoolley.com/2023/03/21/uk-gov-report.html",
 				"tags": ["digital","transformation","public sector"]
 			},
@@ -380,7 +389,7 @@
 				
 				"content_html": "<p>The role of Buddhist monks on TikTok- <a href=\"https://restofworld.org/2023/buddhist-monk-tiktok-monastic-code\">restofworld.org/2023/budd&hellip;</a></p>\n",
 				"content_text": "The role of Buddhist monks on TikTok- [restofworld.org/2023/budd...](https://restofworld.org/2023/buddhist-monk-tiktok-monastic-code)\n",
-				"date_published": "2023-03-08T19:05:49+01:00",
+				"date_published": "2023-03-08T18:05:49+00:00",
 				"url": "https://blog.offordwoolley.com/2023/03/08/the-role-of.html",
 				"tags": ["social","tiktok","global"]
 			},
@@ -389,7 +398,7 @@
 				
 				"content_html": "<p>Tips for using ChatGPT to save time when coding - <a href=\"https://twitter.com/svpino/status/1624392828154712064?s=12&amp;t=xAb617AFWx28xwUGYJP_Lw\">twitter.com/svpino/st&hellip;</a></p>\n",
 				"content_text": "Tips for using ChatGPT to save time when coding - [twitter.com/svpino/st...](https://twitter.com/svpino/status/1624392828154712064?s=12&t=xAb617AFWx28xwUGYJP_Lw)\n",
-				"date_published": "2023-02-15T11:07:31+01:00",
+				"date_published": "2023-02-15T10:07:31+00:00",
 				"url": "https://blog.offordwoolley.com/2023/02/15/tips-for-using.html",
 				"tags": ["chatgpt","ai","dev"]
 			},
@@ -398,7 +407,7 @@
 				
 				"content_html": "<p>Nice piece on the recession on VR - <a href=\"https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus\">www.matthewball.vc/all/why-v&hellip;</a></p>\n",
 				"content_text": "Nice piece on the recession on VR - [www.matthewball.vc/all/why-v...](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)\n",
-				"date_published": "2023-02-01T22:15:40+01:00",
+				"date_published": "2023-02-01T21:15:40+00:00",
 				"url": "https://blog.offordwoolley.com/2023/02/01/nice-piece-on.html",
 				"tags": ["vr"]
 			},
@@ -407,7 +416,7 @@
 				
 				"content_html": "<p>A good comparison of AI companies vs traditional software companies- <a href=\"https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software-2/\">a16z.com/2020/02/1&hellip;</a></p>\n",
 				"content_text": "A good comparison of AI companies vs traditional software companies- [a16z.com/2020/02/1...](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software-2/)\n",
-				"date_published": "2023-01-25T12:56:30+01:00",
+				"date_published": "2023-01-25T11:56:30+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/25/a-good-comparison.html",
 				"tags": ["ai"]
 			},
@@ -416,7 +425,7 @@
 				
 				"content_html": "<p>Useful think-piece on “Who owns the Generative AI platform?” - <a href=\"https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/\">a16z.com/2023/01/1&hellip;</a></p>\n",
 				"content_text": "Useful think-piece on “Who owns the Generative AI platform?” - [a16z.com/2023/01/1...](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/)\n",
-				"date_published": "2023-01-24T23:55:47+01:00",
+				"date_published": "2023-01-24T22:55:47+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/24/useful-thinkpiece-on.html",
 				"tags": ["chatgpt","ai"]
 			},
@@ -425,7 +434,7 @@
 				
 				"content_html": "<p>Using AI to assist with coding - <a href=\"https://avc.com/2023/01/the-ai-assist/?lctg=161355101\">avc.com/2023/01/t&hellip;</a></p>\n",
 				"content_text": "Using AI to assist with coding - [avc.com/2023/01/t...](https://avc.com/2023/01/the-ai-assist/?lctg=161355101)\n",
-				"date_published": "2023-01-23T15:50:00+01:00",
+				"date_published": "2023-01-23T14:50:00+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/23/using-ai-to.html",
 				"tags": ["chatgpt","ai","copilot","dev"]
 			},
@@ -434,7 +443,7 @@
 				
 				"content_html": "<p>ChatGPT isn’t magic, Time article on the human cost - <a href=\"https://time.com/6247678/openai-chatgpt-kenya-workers\">time.com/6247678/o&hellip;</a></p>\n",
 				"content_text": "ChatGPT isn’t magic, Time article on the human cost - [time.com/6247678/o...](https://time.com/6247678/openai-chatgpt-kenya-workers)\n",
-				"date_published": "2023-01-21T11:52:05+01:00",
+				"date_published": "2023-01-21T10:52:05+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/21/chatgpt-isnt-magic.html",
 				"tags": ["chatgpt","ai","kenya"]
 			},
@@ -443,7 +452,7 @@
 				
 				"content_html": "<p>How tech is used as a (suboptimal) workaround for subway underinvestment in Mexico - <a href=\"https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains\">restofworld.org/2023/mexi&hellip;</a></p>\n",
 				"content_text": "How tech is used as a (suboptimal) workaround for subway underinvestment in Mexico - [restofworld.org/2023/mexi...](https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains)\n",
-				"date_published": "2023-01-18T11:45:46+01:00",
+				"date_published": "2023-01-18T10:45:46+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/18/104546.html",
 				"tags": ["transport","whatsapp","mexico","global"]
 			},
@@ -452,7 +461,7 @@
 				
 				"content_html": "<p>ChatGPT being used for cyber crime - <a href=\"https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/\">research.checkpoint.com/2023/opwn&hellip;</a></p>\n",
 				"content_text": "ChatGPT being used for cyber crime - [research.checkpoint.com/2023/opwn...](https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/)\n",
-				"date_published": "2023-01-18T11:30:31+01:00",
+				"date_published": "2023-01-18T10:30:31+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/18/chatgpt-being-used.html",
 				"tags": ["chatgpt","ai","cyber"]
 			},
@@ -461,7 +470,7 @@
 				
 				"content_html": "<p>Long piece in Nature on lack of evidence of planted stories impacting elections - <a href=\"https://www.nature.com/articles/s41467-022-35576-9\">www.nature.com/articles/&hellip;</a></p>\n",
 				"content_text": "Long piece in Nature on lack of evidence of planted stories impacting elections - [www.nature.com/articles/...](https://www.nature.com/articles/s41467-022-35576-9)\n",
-				"date_published": "2023-01-18T11:29:18+01:00",
+				"date_published": "2023-01-18T10:29:18+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/18/long-piece-in.html",
 				"tags": ["twitter","politics"]
 			},
@@ -470,7 +479,7 @@
 				
 				"content_html": "<p>Deep dive into how Twitter Fact-checking system - <a href=\"https://www.bloomberg.com/graphics/2022-twitter-birdwatch-community-notes-misinformation-politics/?leadSource=uverify%20wall\">www.bloomberg.com/graphics/&hellip;</a></p>\n",
 				"content_text": "Deep dive into how Twitter Fact-checking system - [www.bloomberg.com/graphics/...](https://www.bloomberg.com/graphics/2022-twitter-birdwatch-community-notes-misinformation-politics/?leadSource=uverify%20wall)\n",
-				"date_published": "2023-01-04T12:55:58+01:00",
+				"date_published": "2023-01-04T11:55:58+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/04/deep-dive-into.html",
 				"tags": ["digital","twitter"]
 			},
@@ -479,7 +488,7 @@
 				
 				"content_html": "<p>Ofcom research of time spent on mobile in 2022 - <a href=\"https://www.ofcom.org.uk/__data/assets/pdf_file/0026/247544/annex-5-ipsos-iris-passive-monitoring-analysis.pdf\">https://www.ofcom.org.uk/__data/assets/pdf_file/0026/247544/annex-5-ipsos-iris-passive-monitoring-analysis.pdf</a></p>\n",
 				"content_text": "Ofcom research of time spent on mobile in 2022 - https://www.ofcom.org.uk/__data/assets/pdf_file/0026/247544/annex-5-ipsos-iris-passive-monitoring-analysis.pdf\n",
-				"date_published": "2023-01-04T12:46:18+01:00",
+				"date_published": "2023-01-04T11:46:18+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/04/ofcom-research-of.html",
 				"tags": ["digital","mobile","research"]
 			},
@@ -488,7 +497,7 @@
 				
 				"content_html": "<p>Digital blueprint for Greater Manchester - <a href=\"https://www.greatermanchester-ca.gov.uk/media/6275/gmca_blueprint_jul-22.pdf\">https://www.greatermanchester-ca.gov.uk/media/6275/gmca_blueprint_jul-22.pdf</a></p>\n",
 				"content_text": "Digital blueprint for Greater Manchester - https://www.greatermanchester-ca.gov.uk/media/6275/gmca_blueprint_jul-22.pdf\n",
-				"date_published": "2023-01-04T10:27:21+01:00",
+				"date_published": "2023-01-04T09:27:21+00:00",
 				"url": "https://blog.offordwoolley.com/2023/01/04/digital-blueprint-for.html",
 				"tags": ["digital","manchester"]
 			},
@@ -497,7 +506,7 @@
 				
 				"content_html": "<p>Useful graphic comparing Product vs Delivery Mgmt activities</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Useful graphic comparing Product vs Delivery Mgmt activities\n\n<img src=\"uploads/2022/907c94836f.jpg\" width=\"463\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-25T23:10:16+01:00",
+				"date_published": "2022-12-25T22:10:16+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/221016.html",
 				"tags": ["digital","product","delivery"]
 			},
@@ -506,7 +515,7 @@
 				
 				"content_html": "<p>Graphic showing impact of C-19 - during its height- on digital transformation</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Graphic showing impact of C-19 - during its height- on digital transformation \n\n<img src=\"uploads/2022/6f85ede20d.jpg\" width=\"600\" height=\"366\" alt=\"\">\n",
-				"date_published": "2022-12-25T23:08:50+01:00",
+				"date_published": "2022-12-25T22:08:50+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/graphic-showing-impact.html",
 				"tags": ["digital","transformation"]
 			},
@@ -515,7 +524,7 @@
 				
 				"content_html": "<p>Helpful graphic showing the transition from waterfall to Agile</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Helpful graphic showing the transition from waterfall to Agile\n\n<img src=\"uploads/2022/a0f6194d32.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"date_published": "2022-12-25T23:08:05+01:00",
+				"date_published": "2022-12-25T22:08:05+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/helpful-graphic-showing.html",
 				"tags": ["digital","product","delivery","transformation","agile"]
 			},
@@ -524,7 +533,7 @@
 				
 				"content_html": "<p>Nice Venn Diagram for Product, Tech, Delivery overlaps</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Nice Venn Diagram for Product, Tech, Delivery overlaps\n\n<img src=\"uploads/2022/9d65e28cca.jpg\" width=\"600\" height=\"465\" alt=\"\">\n",
-				"date_published": "2022-12-25T23:07:01+01:00",
+				"date_published": "2022-12-25T22:07:01+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/nice-venn-diagram.html",
 				"tags": ["digital","product","delivery","agile"]
 			},
@@ -533,7 +542,7 @@
 				
 				"content_html": "<p>Useful graphic comparing Product vs Delivery expectations</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Useful graphic comparing Product vs Delivery expectations\n\n<img src=\"uploads/2022/bf88d107ff.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-25T23:00:07+01:00",
+				"date_published": "2022-12-25T22:00:07+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/useful-graphic-comparing.html",
 				"tags": ["digital","product"]
 			},
@@ -542,7 +551,7 @@
 				
 				"content_html": "<p>Ben Evans 2021 end of year thoughts - <a href=\"https://www.ben-evans.com/presentations\">www.ben-evans.com/presentat&hellip;</a></p>\n",
 				"content_text": "Ben Evans 2021 end of year thoughts - [www.ben-evans.com/presentat...](https://www.ben-evans.com/presentations)\n",
-				"date_published": "2022-12-25T22:54:45+01:00",
+				"date_published": "2022-12-25T21:54:45+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/ben-evans-end.html",
 				"tags": ["digital","web3","ecomm","cloud"]
 			},
@@ -551,7 +560,7 @@
 				
 				"content_html": "<p>Nice article on the Wordle creator on going viral and what to do next - <a href=\"https://techcrunch.com/2022/01/12/josh-wardle-interview-wordle/\">techcrunch.com/2022/01/1&hellip;</a></p>\n",
 				"content_text": "Nice article on the Wordle creator on going viral and what to do next - [techcrunch.com/2022/01/1...](https://techcrunch.com/2022/01/12/josh-wardle-interview-wordle/)\n",
-				"date_published": "2022-12-25T22:52:26+01:00",
+				"date_published": "2022-12-25T21:52:26+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/nice-article-on.html",
 				"tags": ["digital","product","startups"]
 			},
@@ -560,7 +569,7 @@
 				
 				"content_html": "<p>Useful post on why diversity in product teams is important - FB Marketplace - <a href=\"https://www.lennysnewsletter.com/p/the-inside-story-of-facebook-marketplace?r=il6m\">www.lennysnewsletter.com/p/the-ins&hellip;</a></p>\n",
 				"content_text": "Useful post on why diversity in product teams is important - FB Marketplace - [www.lennysnewsletter.com/p/the-ins...](https://www.lennysnewsletter.com/p/the-inside-story-of-facebook-marketplace?r=il6m)\n",
-				"date_published": "2022-12-25T10:31:10+01:00",
+				"date_published": "2022-12-25T09:31:10+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/25/useful-post-on.html",
 				"tags": ["digital","product","diversity"]
 			},
@@ -569,7 +578,7 @@
 				
 				"content_html": "<p>Simple guide to Web3 tech stack - <a href=\"https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack\">www.coinbase.com/blog/a-si&hellip;</a></p>\n",
 				"content_text": "Simple guide to Web3 tech stack - [www.coinbase.com/blog/a-si...](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack)\n",
-				"date_published": "2022-12-24T22:56:40+01:00",
+				"date_published": "2022-12-24T21:56:40+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/24/simple-guide-to.html",
 				"tags": ["digital","crypto","web3"]
 			},
@@ -578,7 +587,7 @@
 				
 				"content_html": "<p>Useful history on a decade of contactless payments on TfL - <a href=\"https://www.ianvisits.co.uk/articles/a-decade-of-contactless-payments-on-london-public-transport-59366/\">www.ianvisits.co.uk/articles/&hellip;</a></p>\n",
 				"content_text": "Useful history on a decade of contactless payments on TfL - [www.ianvisits.co.uk/articles/...](https://www.ianvisits.co.uk/articles/a-decade-of-contactless-payments-on-london-public-transport-59366/)\n",
-				"date_published": "2022-12-24T18:48:38+01:00",
+				"date_published": "2022-12-24T17:48:38+00:00",
 				"url": "https://blog.offordwoolley.com/2022/12/24/a-decade-of.html",
 				"tags": ["digital","transport","london","mobile"]
 			}
