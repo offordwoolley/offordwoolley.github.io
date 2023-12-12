@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/12/12/an-mit-study.html",
+				
+				"content_html": "<p><a href=\"https://mitsloan.mit.edu/ideas-made-to-matter/study-gauges-how-people-perceive-ai-created-content\">An MIT study</a> on how people perceive content created by AI</p>\n",
+				"content_text": "[An MIT study](https://mitsloan.mit.edu/ideas-made-to-matter/study-gauges-how-people-perceive-ai-created-content) on how people perceive content created by AI\n",
+				"date_published": "2023-12-12T07:49:42+00:00",
+				"url": "https://blog.offordwoolley.com/2023/12/12/an-mit-study.html",
+				"tags": ["research","ai","llm"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/11/30/techie-blog-from.html",
 				
 				"content_html": "<p><a href=\"https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e\">Techie blog from Google </a>and how they architecture their LLM training environments</p>\n",
