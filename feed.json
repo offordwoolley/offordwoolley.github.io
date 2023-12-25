@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2023/12/25/nice-visual-of.html",
+				
+				"content_html": "<p>Nice visual of how companies ship code</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nice visual of how companies ship code\n\n\n\n<img src=\"uploads/2023/9bb6dea16a.jpg\" width=\"474\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-25T08:50:55+00:00",
+				"url": "https://blog.offordwoolley.com/2023/12/25/nice-visual-of.html",
+				"tags": ["delivery","tech"]
+			},
+			{
+				"id": "http://offordwoolley.micro.blog/2023/12/19/great-overview-of.html",
+				
+				"content_html": "<p>Great overview of the Netflix architecture</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Great overview of the Netflix architecture\n\n<img src=\"uploads/2023/image.jpg\" width=\"542\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-19T14:54:10+00:00",
+				"url": "https://blog.offordwoolley.com/2023/12/19/great-overview-of.html",
+				"tags": ["digital","dev","consumer"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2023/12/18/really-helpful-graphic.html",
 				
 				"content_html": "<p>Really helpful graphic comparing SDLC vs DevOps vs NoOps. Useful to guide conversations about org’s maturity and where they should sit.</p>\n<!-- raw HTML omitted -->\n",
