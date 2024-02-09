@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://offordwoolley.micro.blog/2024/02/09/house-of-lords.html",
+				
+				"content_html": "<p>House of Lords <a href=\"https://publications.parliament.uk/pa/ld5804/ldselect/ldcomm/54/54.pdf\">committee review</a> on GenAI</p>\n",
+				"content_text": "House of Lords [committee review](https://publications.parliament.uk/pa/ld5804/ldselect/ldcomm/54/54.pdf) on GenAI \n",
+				"date_published": "2024-02-09T10:13:30+00:00",
+				"url": "https://blog.winterhill.digital/2024/02/09/house-of-lords.html",
+				"tags": ["digital","politics","chatgpt","HMG","llm","uk"]
+			},
+			{
 				"id": "http://offordwoolley.micro.blog/2024/01/26/a-proposal-for.html",
 				
 				"content_html": "<p>A <a href=\"https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/\">proposal</a> for the modern AI stack</p>\n<!-- raw HTML omitted -->\n",
